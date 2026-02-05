@@ -1,0 +1,315 @@
+{
+  "cards": [
+    {
+      "name": "Un Feto",
+      "description": "Bebe líquido amniótico tibio. Organismo en desarrollo desde la octava semana de gestación hasta el nacimiento. Flota en líquido amniótico dentro del útero materno.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Un Hablador Cercano",
+      "description": "Su aliento es cálido y huele. Persona que se para demasiado cerca cuando habla, invadiendo el espacio personal. No respeta la 'burbuja' de distancia social apropiada.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Yoko Ono",
+      "description": "La viuda más famosa del pop. Artista y músico japonesa, viuda de John Lennon. Muchos fans de The Beatles la culpan de la separación de la banda.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Lance Armstrong",
+      "description": "Su mayor victoria fue la mentira. Ciclista que ganó 7 Tours de Francia pero fue despojado de todos sus títulos por dopaje. Su caída fue tan impactante como su dominio.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Kevin Bacon",
+      "description": "Está conectado con todos los actores. Actor estadounidense. El juego 'Seis Grados de Kevin Bacon' intenta conectar cualquier actor con él en 6 películas o menos.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Miss Piggy",
+      "description": "¡Hoi-ya! Quiere casarse contigo. Cerda diva de los Muppets. Experta en karate, obsesionada con Kermit la Rana. Glamorosa, dramática y temperamental.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 1
+    },
+    {
+      "name": "Un Gerbil",
+      "description": "El suplente de los hámsters. Pequeño roedor similar al hámster pero con cola larga. Mascota popular, especialmente para niños. Menos famoso que su primo el hámster.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Una Rata de Laboratorio",
+      "description": "Se sacrifica por tu champú. Roedor usado en experimentos científicos. Pruebas de medicamentos, psicología y toxicidad de productos. Controversia sobre derechos animales.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "El Hombre del Saco",
+      "description": "Le debes tu alma. Personaje del folclore usado para asustar niños. Se lleva a los niños desobedientes en su saco. Varía según la cultura (Boogeyman, Coco, etc.).",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Un Cascanueces",
+      "description": "Su trabajo es destruir. Herramienta para romper cáscaras de nueces. También ballet clásico de Tchaikovsky sobre juguetes que cobran vida en Navidad.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Tu Gemelo Malvado",
+      "description": "Hace todo lo que sueñas. Tropo de ficción: cada persona tiene un doble malvado, a menudo con barba de chivo. Aparece en Star Trek, telenovelas y comedias.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Gene Wilder",
+      "description": "El actor de los ojos grandes. Actor conocido por Willy Wonka y la Fábrica de Chocolate, y El Joven Frankenstein. Expresiones faciales exageradas y cabello rizado salvaje.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Un Hombre Lobo",
+      "description": "Peludo, hambriento, sin control. Humano que se transforma en lobo durante la luna llena. Vulnerable a balas de plata. Maldición transmitida por mordida.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 1
+    },
+    {
+      "name": "Coronel Mustard",
+      "description": "El asesino con el candelabro. Uno de los sospechosos en el juego de mesa Clue/Cluedo. Militar con bigote. ¿Fue él con el candelabro en la biblioteca?",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Bob Ross",
+      "description": "Pinta árboles felices y pequeños. Pintor y presentador de TV con afro icónico. Su programa 'The Joy of Painting' es calmante y zen. 'No hay errores, solo felices accidentes.'",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Un Swinger",
+      "description": "Cambia de pareja para salvar el matrimonio. Persona en relación consensualmente no monógama que intercambia parejas sexuales con otras. Fiestas 'swinger'.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Capitán Planeta",
+      "description": "Salva el planeta con un anillo. Superhéroe ecologista de caricatura de los 90s. Convocado por cinco jóvenes con anillos elementales. 'El poder es tuyo!'",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Tú",
+      "description": "Eres el protagonista. La persona más importante en tu propia historia. El centro de tu universo perceptual. La única perspectiva que realmente experimentas.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Yorick",
+      "description": "El cráneo de Hamlet. Calavera del bufón en la obra de Shakespeare 'Hamlet'. 'Alas, pobre Yorick. Lo conocí, Horacio.' Símbolo de mortalidad.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "Un Nihilista",
+      "description": "Nada importa. Todo es absurdo. Persona que cree que la vida carece de significado objetivo, propósito o valor intrínseco. Filosofía de negación de sentido.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "David Attenborough",
+      "description": "La voz suave de la naturaleza. Naturalista británico y narrador de documentales de vida salvaje. Su voz calmada describe maravillas y horrores de la naturaleza por igual.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "La Esposa de Lot",
+      "description": "Una columna de curiosidad. En la Biblia, la esposa de Lot miró atrás hacia Sodoma mientras huían, desobedeciendo a Dios. Fue convertida en estatua de sal.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Un Sacerdote Católico",
+      "description": "Vive de tus confesiones. Clérigo ordenado de la Iglesia Católica. Celibato obligatorio. Realiza misas, confesiones y sacramentos. Escándalos de abuso eclesiástico.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Catalina la Grande",
+      "description": "No necesitó un hombre. Emperatriz de Rusia (1762-1796). Llegó al poder mediante golpe de estado. Rumores falsos sobre su muerte incluyen un caballo.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "El Ello",
+      "description": "La próxima catástrofe filosófica. En psicoanálisis freudiano, la parte primitiva de la psique que busca placer inmediato. Impulsos, deseos y necesidades inconscientes.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "El Caballo de Catalina la Grande",
+      "description": "Leyenda urbana falsa sobre la muerte de la emperatriz rusa. El rumor dice que murió durante acto sexual con un caballo. Completamente falso pero persistente.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Un Pato del Tamaño de un Caballo",
+      "description": "La otra mitad del dilema. Pregunta hipotética viral: '¿Pelearías contra un pato del tamaño de caballo o 100 caballos del tamaño de patos?' Un pato gigante sería aterrador.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Un Exhibicionista",
+      "description": "La distracción desnuda. Persona que expone sus genitales en público para gratificación sexual. Delito sexual. Hombres en abrigos largos son el estereotipo.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Jareth, el Rey Goblin",
+      "description": "El señor del laberinto. Villano de la película 'Labyrinth' (1986) interpretado por David Bowie. Rey de los goblins con cabello rubio salvaje y pantalones ajustados.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "Sting",
+      "description": "Músico, cantante, dios del tantra. Vocalista de The Police, luego carrera solista. Conocido por 'Every Breath You Take'. Afirma practicar sexo tántrico por horas.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Un Dungeon Master",
+      "description": "Decide las reglas de la fantasía. Narrador y árbitro en juegos de rol como Dungeons & Dragons. Crea la historia, interpreta NPCs, determina resultados.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Tu Profesor de Educación Física",
+      "description": "Te obligó a correr. Maestro de gimnasia que te hizo trepar la cuerda, jugar dodgeball y correr la milla. Siempre con silbato y clipboard.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Baby Einstein",
+      "description": "Aprendizaje automático para bebés. Serie de videos educativos para bebés con juguetes, música y palabras. Afirmaban aumentar inteligencia infantil. Ciencia cuestionable.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "El Buen Salvaje",
+      "description": "Un mito racista. Concepto romántico de que pueblos indígenas son naturalmente nobles y no corrompidos. Infantiliza y niega su humanidad compleja.",
+      "category": "ET CÉTERA",
+      "points": 4
+    },
+    {
+      "name": "Un Perro Haciendo Yoga",
+      "description": "Hace la postura del perro. Ironía: la postura de yoga 'perro boca abajo' es imitada por humanos, pero perros reales también estiran así naturalmente. Meme y clases reales.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Pedobear",
+      "description": "Solo quiere a los niños. Meme de internet de un oso de caricatura asociado con pedofilia. Originalmente sátira oscura, usado para señalar contenido inapropiado con menores.",
+      "category": "ET CÉTERA",
+      "points": 4
+    },
+    {
+      "name": "Judas Iscariote",
+      "description": "El traidor eterno. Uno de los doce apóstoles que traicionó a Jesús por 30 monedas de plata. Su nombre es sinónimo de traición.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "El Aprendiz de Brujo",
+      "description": "No puede detener la escoba. Segmento de Fantasía de Disney con Mickey Mouse. Hechiza una escoba para hacer su trabajo. Pierde control y las escobas se multiplican.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Lolita",
+      "description": "Novela sobre deseo prohibido. Novela controvertida de Vladimir Nabokov sobre un profesor obsesionado con una niña de 12 años. Narrada por el pedófilo.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "Star Wars Kid",
+      "description": "Su baile con sable láser es legendario. Adolescente canadiense cuyo video imitando movimientos con sable de luz se volvió viral en 2002. Fue acosado pero eventualmente encontró paz.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Harry Houdini",
+      "description": "El rey de la escapatoria. Mago e ilusionista famoso por escapar de esposas, camisas de fuerza y contenedores de agua. Murió de apendicitis después de golpe en abdomen.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Un Hombre Sirena",
+      "description": "Cola de pez y abdominales. Versión masculina de sirena. Mitad humano, mitad pez. Menos común en mitología que las sirenas. Tritón es el ejemplo más famoso.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "La Morsa",
+      "description": "Demasiado gorda para nadar. Personaje de la canción de The Beatles 'I Am the Walrus'. Referencia al poema de Lewis Carroll. 'Goo goo g'joob.'",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Una Damisela en Apuros",
+      "description": "No puede hacer nada sola. Tropo sexista: mujer indefensa que debe ser rescatada por héroe masculino. Princesa Peach, Fay Wray. Feminist Frequency criticó esto en videojuegos.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Clippy",
+      "description": "La IA de ayer. Asistente con forma de clip de papel en Microsoft Office. Aparecía diciendo '¿Parece que estás escribiendo una carta?' Molesto e inútil. Apagado en 2001.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Gran Hermano",
+      "description": "La vigilancia es entretenimiento. De la novela '1984' de Orwell: estado totalitario que vigila constantemente. 'Big Brother is watching you.' También reality show.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "El 1%",
+      "description": "Los ricos que lo poseen todo. Los más ricos que controlan gran parte de la riqueza. Slogan de Occupy Wall Street: 'Somos el 99%.' Desigualdad económica creciente.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "El Superyó",
+      "description": "El mayor causante de dolor de Freud. En psicoanálisis, la parte moral de la psique. Internaliza reglas sociales. Castiga con culpa. Opuesto al Ello.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Un Mormón",
+      "description": "Tiene muchas esposas. Miembro de la Iglesia de Jesucristo de los Santos de los Últimos Días. Fundada por Joseph Smith. Algunos grupos fundamentalistas practican poligamia.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Frogger",
+      "description": "Cruza la calle sin morir. Videojuego arcade clásico donde una rana debe cruzar carreteras con tráfico y ríos con troncos flotantes. Extremadamente difícil.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Gemelos Siameses",
+      "description": "Comparten todo, incluso órganos. Gemelos idénticos cuyos cuerpos están físicamente conectados. Ocurre en 1 de cada 200,000 nacimientos. Separación quirúrgica riesgosa.",
+      "category": "ET CÉTERA",
+      "points": 2
+    }
+  ],
+  "range": {
+    "start": 384,
+    "end": 433,
+    "count": 50
+  }
+}

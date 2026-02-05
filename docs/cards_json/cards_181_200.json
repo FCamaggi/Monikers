@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "Mother Teresa",
+      "description": "A missionary and Nobel Peace Prize winner who claimed “the world is being helped by the suffering of poor people.” Her Home for the Dying Destitutes in Calcutta offered no significant medical care and only 7% of donations to her organization were directly used for charity.",
+      "category": "CELEBRITY",
+      "points": 1
+    },
+    {
+      "name": "David Blaine",
+      "description": "A street magician known for his sleight of hand, silly endurance challenges, and being kind a douche. His stunts include getting buried for a long time, standing on a pole for a long time, holding his breath for a long time, and freaking Ricky Gervais out by stabbing himself.",
+      "category": "CELEBRITY",
+      "points": 2
+    },
+    {
+      "name": "Lennie Small",
+      "description": "The large, mentally disabled friend of George in Of Mice and Men. He loves petting soft things, but is unable to control his strength, accidentally killing a puppy and a woman. George shoots him at the end of the novel to protect him from an angry lynch mob.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Bill Clinton",
+      "description": "The 42nd President of the US and tenor saxophonist. He was the second president to be impeached in office, due to charges related to receiving oral sex from a White House intern. The case famously depended “on what the meaning of the word ‘is’ is.”",
+      "category": "HISTORICAL FIGURE",
+      "points": 1
+    },
+    {
+      "name": "Flappy Bird",
+      "description": "The winged title character from an iOS game where you navigate through a set of pipes. The creator removed the game from the App Store, despite earning $50,000 per day, in the wake of criticism over alleged plagiarism of graphics and gameplay mechanics.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "The Übermensch",
+      "description": "A concept created by Nietzsche in Thus Spoke Zarathustra that roughly translates to “Superman.” A character in the book holds it up as a supreme goal for humanity to achieve. The term was incorrectly used by the Nazi regime to argue for a biologically superior race.",
+      "category": "ET CETERA",
+      "points": 3
+    },
+    {
+      "name": "The Dude",
+      "description": "The nickname of Jeffrey Lebowski in the Coen Brothers film The Big Lebowski. Played by Jeff Bridges, he is depicted as an unemployed slacker, pacifist, and bowler who drinks White Russians and listens to Creedence. He was based on the Seattle Seven member Jeff Dowd.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "A Coke Mule",
+      "description": "A person who smuggles illicit drugs across national borders. While methods vary, one involves swallowing latex balloons filled with the substance, which is later recovered in their feces. Detection of this method is difficult and is often only found on x-ray.",
+      "category": "ET CETERA",
+      "points": 3
+    },
+    {
+      "name": "The Ego",
+      "description": "One of the three parts of Sigmund Freud's model of the psyche that constitute mental life. It plays an executive function, mediating between raw instinct and external reality, such as your ability to delay immediate pleasure for long term objectives.",
+      "category": "ET CETERA",
+      "points": 2
+    },
+    {
+      "name": "A Manic Pixie Dream Girl",
+      "description": "Described by Nathan Rabin as a “bubbly, shallow creature that exists solely in the imaginations of sensitive writer-directors to teach young men to embrace life and its infinite mysteries.” Examples include Natalie Portman in Garden State and Zooey Deschanel in everything.",
+      "category": "ET CETERA",
+      "points": 3
+    },
+    {
+      "name": "Greg Louganis",
+      "description": "A diver who hit his head on the board during the 1988 Olympic Games. It was later revealed that he was HIV positive at the time, though there was no chance of other athletes contracting the disease from the chlorinated water. Mario Lopez played him in a 1997 biopic.",
+      "category": "CELEBRITY",
+      "points": 3
+    },
+    {
+      "name": "A Pufferfish",
+      "description": "One of the most infamous and deadly culinary dishes. Known as Fugu in Japan, its preparation is strictly controlled, because its liver, ovaries, and eyes contain fatal levels of tetrodotoxin. These areas must be carefully removed to avoid asphyxiation and death.",
+      "category": "ET CETERA",
+      "points": 3
+    },
+    {
+      "name": "Ms. Pac-Man",
+      "description": "The hero of a 1982 arcade game, who navigates mazes and eats pellets, power pellets, and fruit while avoiding ghosts. One of gaming's first female protagonists, the only visible difference between her and her male counterpart is a pixelated red bow.",
+      "category": "CARD BY NAT SIMS",
+      "points": 2
+    },
+    {
+      "name": "General Butt Naked",
+      "description": "A former leader for the Liberian warlord Roosevelt Johnson. He claimed that before battle “we would get drunk and drugged up, sacrifice a teenager, drink the blood, then strip down to our shoes and go into battle wearing colorful wigs and carrying imaginary purses.”",
+      "category": "CELEBRITY",
+      "points": 3
+    },
+    {
+      "name": "Nyan Cat",
+      "description": "A cartoon feline with the body of a Pop-Tart. It is depicted flying in space with a rainbow trail, accompanied by an upbeat song with the Japanese word for “Meow” as its lyrics. A popular variation has usersSyncing the video to Slipknot's song“Psychosocial.”",
+      "category": "FICTIONAL CHARACTER",
+      "points": 3
+    },
+    {
+      "name": "Pharell's hat",
+      "description": "The infamous head covering of the rapper, producer, and guest performer on “Blurred Lines.” Created for Vivienne Westwood's 1982-1983 collection, it was inspired by “Peruvian women wearing bowler hats, full skirts, dancing with their babies tied on their back.”",
+      "category": "CELEBRITY",
+      "points": 3
+    },
+    {
+      "name": "A Mall Santa",
+      "description": "In the weeks leading up to Christmas, shopping complexes often employ this person to play a fat, jolly, gift-giving figure. A \"grotto\" is usually set up where children can pose for photographs while sitting on his lap and requesting presents.",
+      "category": "CARD BY MATT RIX",
+      "points": 3
+    },
+    {
+      "name": "Gregor Samsa",
+      "description": "A character from Franz Kafka's novella The Metamorphosis, who wakes up one day to find himself transformed into a large insect. He slowly loses his ability to communicate, becomes a burden on his family, and eventually wills himself to die somehow.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 4
+    },
+    {
+      "name": "A Bassoonist",
+      "description": "A person who plays a large double reeded woodwind. Despite its warm, dark tone, it is often considered one of the most obscure instruments in the modern orchestra. Among its most famous passages is the Grandfather's Theme in Sergei Prokofiev's Peter and the Wolf.",
+      "category": "ET CETERA",
+      "points": 3
+    },
+    {
+      "name": "Grizzly Man (Timothy Treadwell)",
+      "description": "The eccentric subject of a Werner Herzog documentary, who lived with Alaskan bears for 13 summers and was \"in love with [his] animal friends.\" In 2003, he and his girlfriend were killed and eaten by one of the bears—the first such death in the park's history.",
+      "category": "CELEBRITY",
+      "points": 3
+    }
+  ],
+  "range": {
+    "start": 181,
+    "end": 200,
+    "count": 20
+  }
+}

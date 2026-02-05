@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "Hombre de Florida",
+      "description": "Las hazañas combinadas de gente del Estado del Sol, recopiladas en un popular perfil de Twitter. Ejemplos incluyen alguien que \"Se Disfraza Como 'El Sol,' Roba Toalla del Logo\" y alguien que \"Se Dispara Accidentalmente en la Cabeza Mientras Celebra el Año Nuevo\".",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Rey Hipopótamo",
+      "description": "Un boxeador de la franquicia Punch-Out!! de Nintendo. Se representa como un hombre obeso, bronceado, de boca grande usando una corona y pantalones de boxeo. Lleva dos vendajes en patrón X sobre su ombligo, sugiriendo su punto débil. No puede recuperarse de ser derribado.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "No Es un Idiota",
+      "description": "Una persona que evita actuar como un imbécil desconsiderado. O cualquier cosa en el mundo fuera de la palabra de jerga para genitales masculinos. O una persona que va por cualquier otro nombre que no sea el apodo de Richard.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Sansón",
+      "description": "Un héroe bíblico y proto-bombardero suicida, que una vez mató a un ejército entero con la quijada de un burro. Dios le ordenó no cortar su cabello, pero su amante Dalila fue sobornada para afeitarlo, llevando a su encarcelamiento, ceguera y suicidio al derribar un templo filisteo.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "David Foster Wallace",
+      "description": "Un escritor mejor conocido por su novela Infinite Jest y ensayos sobre la cultura estadounidense. Sufriendo de depresión, se ahorcó en 2008 después de dejar de tomar el antidepresivo fenelzina.",
+      "category": "CELEBRIDAD",
+      "points": 4
+    },
+    {
+      "name": "Un Tejón de Miel",
+      "description": "Un animal, nativo de Sudáfrica y relacionado con la comadreja, popularizado por un video de YouTube narrado por \"Randall\". Este animal ahora casi siempre se describe como \"Rudo\" y \"Lo-co\". Además, a menudo se nota que este animal no le importa o realmente no le da una mierda.",
+      "category": "CARTA DE STEFANIE MARAZZI",
+      "points": 3
+    },
+    {
+      "name": "Un Highlander",
+      "description": "Un personaje inmortal que empuña espada ancha de una película de acción de los 80s. El eslogan de la película, \"Solo puede haber uno\", se refiere a un concurso para ganar el poder y conocimiento del otro a través de derrotar y luego decapitar a sus rivales en un duelo—un proceso referido como Aceleración.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Dr. Zaius",
+      "description": "Un orangután del Planeta de los Simios. Viviendo en la Ciudad de los Simios de la Costa Este durante el siglo 40, paradójicamente sirve como Ministro de Ciencia y Defensor Principal de la Fe. Fue inmortalizado en una canción de Los Simpson que parodia \"Rock Me Amadeus\" de Falco.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "Panda Bebé Estornudando",
+      "description": "El sujeto de un video viral subido por primera vez en YouTube en 2006 y emblemático de la cultura linda. Protagoniza una madre e infante de la especie peluda parecida a un oso. El infante expulsa aire de su nariz para la sorpresa de la madre. El video ha sido visto más de 200 millones de veces.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Rasputín",
+      "description": "Un ocultista ruso y asesor del Zar Nicolás II, quien ejerció poder extraordinario sobre la familia Romanov. Fue asesinado por un grupo de nobles en 1916, y su cuerpo fue recuperado del Río Neva habiendo sido envenenado, disparado, golpeado y ahogado.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Marcel Marceau",
+      "description": "El mimo más famoso de la historia, quien frecuentemente actuaba bajo el nombre Bip el Payaso. Se refería a su oficio como \"el arte del silencio\", creando muchas de las actuaciones de mimo por excelencia, incluyendo Caminando en el Viento y Atrapado en una Caja.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Howard Hughes",
+      "description": "Un magnate de negocios y aviador, quien estableció récords mundiales de velocidad aérea y creó el fallido \"Ganso de Abeto\". Sufrió de germofobia extrema y TOC, llevando a rumores de él negándose a cortar su cabello, usando cajas de pañuelos como zapatos y almacenando su orina en frascos.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Cam",
+      "description": "Uno de los hijos de Noé de la Biblia Hebrea, quien supuestamente fue maldecido en el Libro del Génesis por ver \"la desnudez de su padre\" después de que Noé se desmayara borracho en una tienda. Porque su nombre se traduce como negro o quemado, esta maldición fue usada más tarde para explicar la pigmentación de piel oscura.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Royal Tenenbaum",
+      "description": "El patriarca de la película de 2001 de Wes Anderson sobre una familia neoyorquina excéntrica y problemática. Interpretado por Gene Hackman, es un abogado inhabilitado, ex convicto, racista impenitente, padre ausente y residente de 17 años del Lindbergh Palace Hotel.",
+      "category": "CARTA DE JASON KOTTKE",
+      "points": 3
+    },
+    {
+      "name": "El Conde de Sandwich",
+      "description": "El título de John Montagu, el noble británico del siglo XVIII que inventó usar dos rebanadas de pan como envoltura para comida. La leyenda es que era un ávido apostador que no tenía tiempo para comidas entre juegos de cartas, así que hacía que los sirvientes le trajeran carne entre rebanadas de pan.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Brian Boitano",
+      "description": "Un patinador artístico que ganó oro olímpico en 1988, pero quizás ahora es más famoso como un personaje semi-recurrente en la franquicia South Park. En su película, los chicos lo parodian como una figura inspiradora con una canción que hace referencia a \"¿Qué Haría Jesús?\"",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Arquímedes",
+      "description": "Un científico de la Antigua Grecia que es más famoso por determinar el volumen de objetos con formas irregulares. La leyenda es que resolvió el problema después de notar el nivel del agua cambiar durante un baño. Saltó desnudo y salió a las calles gritando \"¡Eureka!\"",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Carl Sagan",
+      "description": "Un astrónomo e intelectual público mejor conocido por presentar la serie de PBS Cosmos. Es fácilmente identificado por su extraña entrega vocal de palabras como \"billones\". También fue responsable de curar la placa Pioneer y el Disco de Oro para la nave espacial Voyager.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Lisa \"Left Eye\" Lopes",
+      "description": "Una miembro de TLC que murió en un accidente automovilístico días después de que su chofer matara a un niño caminando en el lado del camino. Usaba anteojos con un condón cubriendo uno de los lentes, y quemó su propia mansión al prender fuego a los zapatos de su novio abusivo.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Lady Godiva",
+      "description": "Una noble que montó desnuda en un caballo por las calles de Coventry para aliviar al pueblo de la excesiva tributación de su esposo. Pidió a todos los residentes quedarse en casa y cerrar sus ventanas. Solo un sastre ignoró su orden, quien se hizo conocido como Tom el Mirón.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    }
+  ],
+  "range": {
+    "start": 221,
+    "end": 240,
+    "count": 20
+  }
+}

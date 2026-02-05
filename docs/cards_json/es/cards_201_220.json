@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "Joyce Carol Oates",
+      "description": "Una novelista, dramaturga y profesora de Princeton estadounidense. Sus obras incluyen \"En una Región de Hielo\" y \"Un Jardín de Delicias Terrenales\" y casi 40 otras novelas. Nacida en 1938, todavía escribe a mano y su productividad y disciplina son legendarias entre escritores.",
+      "category": "CELEBRIDAD",
+      "points": 4
+    },
+    {
+      "name": "John Philip Sousa",
+      "description": "Un compositor y director conocido como \"El Rey de las Marchas\". Creó muchas marchas todavía en uso hoy, como \"The Stars and Stripes Forever\". También diseñó un gran instrumento de latón que se envuelve alrededor del cuerpo del músico, que nombró según sí mismo.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Grizzly Adams",
+      "description": "Un legendario hombre de montaña del siglo XIX, que fue famoso por pelear y capturar osos. Durante una \"pelea de juego\" con uno de sus osos, su cuero cabelludo fue desalojado, dejando el tejido cerebral permanentemente expuesto. Murió después de que un mono mordiera la herida abierta, causando una infección.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Un LARPer",
+      "description": "Una persona que asume la personalidad de un personaje en un escenario ficticio, a menudo creado por ellos. El concepto fue inspirado por Dungeons & Dragons y otros juegos de rol tempranos, pero abarca géneros desde alta fantasía hasta steampunk hasta apocalipsis zombie.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Marion Barry",
+      "description": "El ex alcalde de Washington, DC, quien sufrió una derrota electoral por poco después de que se filtrara un videocassette de él fumando crack. Más tarde fue reelegido alcalde después de cumplir seis meses en prisión federal. Actualmente está en el Concejo de la Ciudad de DC y sigue siendo una figura controvertida.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "El Asesino del Zodiaco",
+      "description": "Un asesino serial cuya identidad sigue siendo desconocida. Su nombre es una referencia a cartas enviadas por él a periódicos que incluían un cifrado de 408 caracteres, que afirmaba revelaba su identidad. En una posible decodificación, afirma que sus víctimas serán sus esclavos en el más allá.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 4
+    },
+    {
+      "name": "E. Honda",
+      "description": "Un luchador de sumo de la serie de videojuegos Street Fighter. Su personaje posee fuerza superior a la media pero velocidad inferior a la media, excepto cuando ejecuta su movimiento Cien Manos Violentas de Sumo, comúnmente conocido como la Palmada de Cien Manos. Su tipo de sangre es A.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Carlton Banks",
+      "description": "El primo de El Príncipe del Rap y heredero del Tío Phil. Interpretado por Alfonso Ribeiro, es representado como un joven republicano pijo, quien probablemente es mejor conocido por su baile espasmódico al son de \"It's Not Unusual\" de Tom Jones y ser golpeado en la parte trasera de la cabeza.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "Miss Havisham",
+      "description": "La solterona original de la novela Grandes Esperanzas. El día de su boda, descubrió que había sido defraudada por su prometido. Con el corazón roto, desde ese día vivió sola en su mansión, rechazó la compañía y nunca se quitó su vestido de novia.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "¡Abejas!",
+      "description": "Insectos voladores comunales que se encuentran en todos los continentes excepto la Antártida. A menudo viven en grandes colmenas conocidas como colonias, con una reina, trabajadoras y zánganos. Muchas especies de estas producen miel, que los humanos cosechan en una serie de colmenas conocidas como apiario.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Gizmo",
+      "description": "Una mascota peluda de la franquicia de comedia de terror Gremlins. Sus dueños fueron instados por el Sr. Wing a seguir tres reglas simples al cuidar de su Mogwai: (1) No exponerlo a luz brillante; (2) No mojarlo; y (3) No alimentarlo después de medianoche.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "Quetzalcóatl",
+      "description": "Un antiguo dios mesoamericano y reptil volador cuyo nombre significa \"serpiente emplumada\". Se ha afirmado desde el siglo XVI que el líder azteca Moctezuma II creyó que la aparición del conquistador español Hernán Cortés señalaba su regreso.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Cerebro Madre",
+      "description": "La antagonista de la franquicia de videojuegos Metroid. Típicamente se representa como un cerebro en una cubeta con púas y un solo ojo, aunque a veces se transforma en un monstruo bípedo que se parece a una anciana. También apareció en la serie de dibujos animados Captain N.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "Balki Bartokomous",
+      "description": "Un personaje del sitcom Perfect Strangers. Es un rústico de la isla de Mypos, a quien el Primo Larry aclimata a la gran ciudad de Chicago. Las características del personaje incluyen celebrar con la \"danza de la alegría\" y exclamar \"No seas ridículo\" cuando es él quien está siendo ridículo.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "Almirante Ackbar",
+      "description": "Un humanoide parecido a un pez que comandó la flota de la Alianza Rebelde en Star Wars: Episodio VI. Planeó un ataque sorpresa en la segunda Estrella de la Muerte mientras orbitaba la luna boscosa de Endor. Las fuerzas imperiales sabían del asalto inminente, llevando a su icónica línea \"¡Es una trampa!\"",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "Raskolnikov",
+      "description": "El personaje principal en la novela Crimen y Castigo de Dostoyevsky. Empobrecido en San Petersburgo, asesina a una prestamista con un hacha, lo que justifica a través de una teoría de que algunas personas tienen el derecho de cometer asesinato. Confiesa su crimen y es exiliado a Siberia.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "Hester Prynne",
+      "description": "La protagonista de La Letra Escarlata de Nathaniel Hawthorne. Ambientada en Nueva Inglaterra del siglo XVII, tiene un romance y concibe un hijo con el ministro de su iglesia. Después de ser declarada culpable de adulterio, es obligada a usar una \"A\" escarlata en su vestido como señal de vergüenza.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "Stephen Hawking",
+      "description": "Un físico teórico y cosmólogo que hizo importantes contribuciones al campo de la relatividad general. Tiene una enfermedad de neurona motora que lo deja casi completamente paralizado. Se comunica exclusivamente a través de un dispositivo generador de voz.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Perro de Duck Hunt",
+      "description": "Tu compañero canino en un juego de NES donde usabas la pistola de luz Zapper del sistema para disparar aves acuáticas mientras emergen de los arbustos. Aunque supuestamente debía buscar tus capturas, el rol principal de este personaje era reírse de tu pésimo desempeño.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "El Último Unicornio",
+      "description": "El personaje principal de cuerno único de una película animada de los 80s, quien descubre que es el único miembro restante de su especie. Con la voz de Mia Farrow, es perseguida por una criatura llamada el Toro Rojo. Derrotándolo, devuelve a su especie de vuelta al mundo.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 4
+    }
+  ],
+  "range": {
+    "start": 201,
+    "end": 220,
+    "count": 20
+  }
+}

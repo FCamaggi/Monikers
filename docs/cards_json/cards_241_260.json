@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "Jacob the Jeweler",
+      "description": "Purveyor of bling to the rich and famous. He supplied Kanye West's Jesus Piece-and was asked by Kanye, in \"Diamonds from Sierra Leone\" not to lie about the source of his diamonds. He was sentenced to prison for his connection to the Detroit-based Black Mafia Family.",
+      "category": "CELEBRITY",
+      "points": 4
+    },
+    {
+      "name": "Sisyphus",
+      "description": "An Ancient Greek king who Zeus punished for his hubris by forcing him to roll a boulder up a hill, only to see it roll back down and be forced to repeat this process endlessly. The myth of his struggle was used for philosophical purposes by Albert Camus.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 3
+    },
+    {
+      "name": "John Wayne Gacy, Jr.",
+      "description": "A serial killer who raped and murdered more than 30 teenage boys in the 70s, storing their remains in the crawlspace of his Chicago home. He was well-liked in the community, appearing at charity events and children's parties dressed as his character Pogo the Clown.",
+      "category": "HISTORICAL FIGURE",
+      "points": 3
+    },
+    {
+      "name": "Mama Cass",
+      "description": "The stage name of Ellen Naomi Cohen, a member of the band that performed hits like \"California Dreamin\" and \"Monday Monday.\" She struggled with obesity most of her life, and it was long rumored that she died by choking on either a ham sandwich or a chicken bone.",
+      "category": "HISTORICAL FIGURE",
+      "points": 3
+    },
+    {
+      "name": "Archduke Franz Ferdinand",
+      "description": "The presumptive heir to the Austro-Hungarian Empire until his assassination in 1914. This acted as the catalyst for the beginning of World War I. He was an avid hunter, keeping a diary of nearly 300,000 kills—100,000 of which were displayed at his castle in Konopiště.",
+      "category": "HISTORICAL FIGURE",
+      "points": 3
+    },
+    {
+      "name": "Clarence Thomas",
+      "description": "A Supreme Court Justice who is known for never questioning appellants during oral arguments. His appointment was clouded by allegations of his sexual harassment, such as asking \"Who has put public hair on my Coke?\" and referencing the porn star Long Dong Silver.",
+      "category": "HISTORICAL FIGURE",
+      "points": 3
+    },
+    {
+      "name": "Eva Braun",
+      "description": "The long-time lover and short-time wife of Adolf Hitler. They married less than 2 days before she killed herself with a cyanide capsule while Hitler shot himself in the head with his Walther PPK pistol. Their bodies were then set on fire as Russian forces bombarded Berlin.",
+      "category": "HISTORICAL FIGURE",
+      "points": 3
+    },
+    {
+      "name": "A Bear",
+      "description": "In gay culture, a large, hairy, and often hyper-masculine man. It was likely first popularized as a term in the 1979 article \"Who's Who in the Zoo?\" which categorized gay men as one of 7 types of animals. Subcategories of this include cubs, ewoks, and grizzlies.",
+      "category": "ET CETERA",
+      "points": 1
+    },
+    {
+      "name": "André the Giant",
+      "description": "A 7'4\", 520 lb. Frenchman who was the first wrestler induced into the WWE Hall of Fame. He played the rhyming Turkish wrestler Fezzik in The Princess Bride. His ability to consume alcohol was so legendary that doctors used it to baseline how much anesthesia to administer him.",
+      "category": "CELEBRITY",
+      "points": 1
+    },
+    {
+      "name": "The Lindbergh Baby",
+      "description": "The infant son of the first aviator to fly solo across the Atlantic. He was kidnapped in what was called the \"Crime of the Century.\" The investigation lasted over two years, culminating in the execution by electric chair of Bruno Hauptmann, who maintained his innocence.",
+      "category": "HISTORICAL FIGURE",
+      "points": 3
+    },
+    {
+      "name": "Ghost Dog",
+      "description": "The title character from a film by Jim Jarmusch about a freelance hitman employed by the Mafia, who strictly follows Hagakure, the code of the samurai. The film itself is a blend of the samurai and gangster genres, with a soundtrack produced by RZA of the Wu-Tang Clan.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Marina Abramović",
+      "description": "An artist known for her physically demanding performance pieces. In The Artist is Present, she sat staring at museumgoers silently for two months. Over her career, she has been groped, scalded, nearly stabbed, nearly raped, and nearly shot during performances.",
+      "category": "CELEBRITY",
+      "points": 4
+    },
+    {
+      "name": "She-Hulk",
+      "description": "A superhero from the Marvel Comics universe, who gained her powers after receiving a blood transfusion from her cousin, Dr. Bruce Banner. Like him, she transforms into a green, raging creature. Unlike him, she is able to retain her reason and personality while doing so.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 3
+    },
+    {
+      "name": "Terri Schiavo",
+      "description": "The subject of a prolonged legal case over whether to terminate life support. Diagnosed as being in a persistent vegetative state by her doctors, her husband and parents battled over whether to remove her feeding tube, despite her having signed a “do not resuscitate” order.",
+      "category": "CELEBRITY",
+      "points": 3
+    },
+    {
+      "name": "Mike Hunt",
+      "description": "A gag name that references female genitalia, used to trick a person into saying it without knowledge of the double meaning. While popularized by the film Porky's, its first use was by Jim Davidson & John Elmo in their series of prank calls to Jersey City's Tube Bar in the 70s.",
+      "category": "CARD BY TIM GUNNINK",
+      "points": 3
+    },
+    {
+      "name": "The guy who threw his shoes at George W. Bush",
+      "description": "A journalist who shouted “This is a farewell kiss from the Iraqi people, you dog” and hurled his footwear at the 43rd US president, who narrowly avoided the projectiles by ducking under his podium. A copper statue of the footwear was erected in Tikrit to commemorate the event.",
+      "category": "CELEBRITY",
+      "points": 3
+    },
+    {
+      "name": "Terry Richardson",
+      "description": "A pervy fashion photographer known for his candid style, glasses, and thumbs up gesture. He often shows his subjects against a white background, sometimes posing with them. He has been accused of making inappropriate sexual advances several times in his career.",
+      "category": "CELEBRITY",
+      "points": 3
+    },
+    {
+      "name": "R. Kelly",
+      "description": "An R&B musician who recorded “I Believe I Can Fly” and “Trapped in the Closet.” In 2002, a video leaked of him allegedly urinating on an underage girl, according a 21-count indictment. He was found not guilty, though many still believe him to be a sexual predator.",
+      "category": "CELEBRITY",
+      "points": 1
+    },
+    {
+      "name": "Colton Burpo",
+      "description": "The subject of the book Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back. He claims to have had visions of Jesus riding a rainbow-colored horse while in surgery. Skeptics claim that it was the result of hallucinations under anesthesia.",
+      "category": "ET CETERA",
+      "points": 4
+    },
+    {
+      "name": "Kindergarten Cop",
+      "description": "The title character from a 1990 comedy about a detective who goes undercover at an elementary school and discovers his love of teaching. Played by Arnold Schwarzenegger, the film is famous for the line \"It's not a tumor!\" which he delivers in his thick Austrian accent.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    }
+  ],
+  "range": {
+    "start": 241,
+    "end": 260,
+    "count": 20
+  }
+}

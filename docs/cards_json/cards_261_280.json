@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "Fabio",
+      "description": "A long-haired Italian model who posed for countless romance novel covers. He entered the realm of self-parody as the spokesman for I Can't Believe It's Not Butter. He also released an album of soliloquies on love and killed a seagull with his face while riding a roller coaster.",
+      "category": "CELEBRITY",
+      "points": 1
+    },
+    {
+      "name": "David Caruso",
+      "description": "An actor best known as Lieutenant Horatio Caine on the CBS series CSI: Miami. At the beginning of each show, he delivers a quippy one-liner while simultaneously putting on his trademark sunglasses before the show cuts to its theme song, \"Won't Get Fooed Again.\"",
+      "category": "CELEBRITY",
+      "points": 2
+    },
+    {
+      "name": "Jack Kevorkian",
+      "description": "A doctor and euthanasia activist who was nicknamed \"Dr. Death\" during his trial for second-degree murder of terminally ill patients who sought his assistance. He was also a jazz flautist and composer, and released the album A Very Still Life on the label Lucid Subjazz in 1997.",
+      "category": "CELEBRITY",
+      "points": 1
+    },
+    {
+      "name": "Deepak Chopra",
+      "description": "A teacher of alternative medicine and Transcendental Meditation, who mixes a vague understanding of physics with more standard new age practices. Arguably the world's most famous guru, he has been referred to as \"the David Beckham of personal/spiritual growth.\"",
+      "category": "CELEBRITY",
+      "points": 4
+    },
+    {
+      "name": "Joey Chestnut",
+      "description": "A competitive eater best known for dethroning Kobayashi as the world's top hot dog eater by using Kobayashi's own strategies against him. As of 2014, he holds the world record of eating 69 hot dogs and buns (HDB). He also holds a similar record for deep fried asparagus.",
+      "category": "CELEBRITY",
+      "points": 3
+    },
+    {
+      "name": "Grumpy Cat",
+      "description": "The internet name for Tardar Sauce, a feline who gained celebrity due to her permanently negative expression. Her owner attributes her appearance to feline dwarism as well as an underbite. In 2013, she appeared on the front pages of The Wall Street Journal & NY Magazine.",
+      "category": "CELEBRITY",
+      "points": 3
+    },
+    {
+      "name": "Jiro",
+      "description": "A Japanese sushi master and subject of a 2011 documentary bearing his name. His 10-seat bar is one of the most difficult restaurants in the world to get a reservation, despite the 20-course tasting menu costing ¥30,000 (nearly $300) and being located in a Tokyo subway station.",
+      "category": "CELEBRITY",
+      "points": 2
+    },
+    {
+      "name": "8 Maids-a-Milking",
+      "description": "An octet that appears in the song \"The Twelve Days of Christmas,\" an English Christmas carol that lists a series of gifts given by \"my true love\" on each of those days. These individuals, who tend to dairy cows, are first presented on the eighth day of Christmas.",
+      "category": "ET CETERA",
+      "points": 2
+    },
+    {
+      "name": "Alex Trebek with a mustache",
+      "description": "The host of the quiz show Jeopardy! for thirty years and counting. He has appeared self-deprecatingly as a version of himself in films and TV shows, including Seinfeld and Short Cuts. For the purposes of this card, he still has really great facial hair on his upper lip.",
+      "category": "CELEBRITY",
+      "points": 3
+    },
+    {
+      "name": "Alex Trebek without a mustache",
+      "description": "The host of the quiz show Jeopardy! for thirty years and counting. He began hosting game shows in high school. For purposes of this card, he shaved the iconic facial hair on his upper lip in 2001. In 2008 he wore fake facial hair on his upper lip for April Fools' Day.",
+      "category": "CELEBRITY",
+      "points": 3
+    },
+    {
+      "name": "A Virgin",
+      "description": "A person who has never engaged in sexual intercourse, either voluntarily or involuntarily. Once used only to refer to young women, it now describes any person who has not participated in that activity and can even be used metaphorically, as in a nonalcoholic drink.",
+      "category": "ET CETERA",
+      "points": 1
+    },
+    {
+      "name": "Crocodile Dundee",
+      "description": "The title character in a trilogy of fish-out-of-water films about an Australian bushman struggling to find his way in big city America. Played by Paul Hogan, he famously threatens muggers, saying \"That's not a knife. [draws his bowie knife] That's a knife.\"",
+      "category": "FICTIONAL CHARACTER",
+      "points": 1
+    },
+    {
+      "name": "The Kool-Aid Man",
+      "description": "The 6 foot tall, cherry-flavored mascot for a powdery drink mix that is combined with water and sugar. He is famous for making a dramatic entrance when children express thirst by smashing through a brick wall and yelling his catchphrase \"Oh yeah!\"",
+      "category": "FICTIONAL CHARACTER",
+      "points": 1
+    },
+    {
+      "name": "Andrea Yates",
+      "description": "The victim of severe postpartum depression who drowned her five children in a bathtub. While initially sentenced to life in prison, she was later found not guilty by reason of insanity. Her case sparked an ongoing debate about mental health treatment in the US.",
+      "category": "CELEBRITY",
+      "points": 4
+    },
+    {
+      "name": "John Wayne Bobbitt",
+      "description": "An abusive husband whose wife cut off his penis. He made every effort to profit from the incident, starring in several porn movies centered around his reattached member and starting a band called The Severed Parts. He continued to abuse women in subsequent relationships.",
+      "category": "CELEBRITY",
+      "points": 3
+    },
+    {
+      "name": "Feminist Ryan Gosling",
+      "description": "A meme of the actor who played Noah in The Notebook and stomped on a man's head until it exploded in Drive, showing him in deep thought with captions of \"Hey girl,\" followed by empowering yet seductive quips like \"I stood with Wendy Davis, but I'd lie down anywhere with you.\"",
+      "category": "CELEBRITY",
+      "points": 3
+    },
+    {
+      "name": "A Reptilian",
+      "description": "A humanoid common in conspiracy theories about a race of shape-shifting lizard people who control governments around the world. On a 2011 radio show, Louis C.K. once repeatedly asked former US Secretary of Defense Donald Rumsfeld if he was one of these.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 4
+    },
+    {
+      "name": "Wilford Brimley",
+      "description": "An actor known for his walrus-like white mustache and pronunciation of the word \"Diabetes.\" He played an old grump in Cocoon and several other films in the 80s. He was also a spokesperson for a range of old-people products, like Quaker Oats and Diabeetus supplies.",
+      "category": "CELEBRITY",
+      "points": 4
+    },
+    {
+      "name": "A Boss",
+      "description": "An internet catchphrase that signals a person being like one of these, normally used after completing an activity with particular skill. The term originated in a song by Slim Thug and was featured in a subsequent parody version from the comedy group The Lonely Island.",
+      "category": "ET CETERA",
+      "points": 3
+    },
+    {
+      "name": "The black guy from The Shining (Scatman Crothers)",
+      "description": "An actor famous for his role in Chico and the Man as well as Stanley Kubrick's 1980 horror film, where he plays the telepathic chef and erotic art connoisseur Dick Hallorann. Late in the film, he is killed by an axe blow to the chest by the psycho-pathic writer Jack Torrance.",
+      "category": "CELEBRITY",
+      "points": 4
+    }
+  ],
+  "range": {
+    "start": 261,
+    "end": 280,
+    "count": 20
+  }
+}

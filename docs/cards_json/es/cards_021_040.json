@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "Georgia O'Keeffe",
+      "description": "Pintora modernista estadounidense cuyo trabajo se inspiró en el paisaje de Nuevo México. Es famosa por sus pinturas de flores que, según muchos, se asemejan a genitales femeninos, aunque ella negó cualquier similitud.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Ébola",
+      "description": "Virus que causa fiebre hemorrágica, típicamente adquirido por contacto con un mono, murciélago o persona infectada. Sus síntomas más graves incluyen sangrado por ojos, nariz, oídos, boca y recto. No existe tratamiento específico.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Un Furry",
+      "description": "Persona que usa un disfraz completo de animal, frecuentemente para convenciones, juegos de rol o recreación personal. Su uso en actividad sexual es un tema controversial en la comunidad. En una encuesta, 37% reportó que era parte importante de su interés.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Eugenio Derbez",
+      "description": "Actor y comediante mexicano conocido por sus múltiples personajes en \"XHDRBZ\", \"La Familia P. Luche\" y películas como \"No se aceptan devoluciones\". Creador de personajes icónicos como Ludovico P. Luche y Armando Hoyos. Reconocido en toda Latinoamérica.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Kobayashi",
+      "description": "Competidor japonés de comida que sorprendió al mundo en 2001 al comer 50 hot dogs con pan en 12 minutos en el Concurso de Nathan's, duplicando el récord previo. Una vez perdió un concurso de hot dogs (sin pan) contra un oso Kodiak de 494 kg (31-50).",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Pablo Escobar",
+      "description": "Narcotraficante colombiano y \"Rey de la Cocaína\" que en su apogeo traficaba 15 toneladas de droga al año a EE.UU. Murió en un tiroteo con autoridades en Medellín. Según la BBC, varios hipopótamos de su zoológico privado aún vagan por el campo colombiano.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "El Chupacabras",
+      "description": "Literalmente \"chupador de cabras\", este críptido legendario latinoamericano es descrito como una criatura reptiliana que ataca y bebe la sangre de ovejas y otros animales. La mayoría de avistamientos se han atribuido a perros o lobos con sarna.",
+      "category": "ET CÉTERA",
+      "points": 4
+    },
+    {
+      "name": "Chespirito",
+      "description": "Roberto Gómez Bolaños, creador y protagonista de \"El Chavo del 8\" y \"El Chapulín Colorado\". Icono de la comedia latinoamericana con frases como \"Fue sin querer queriendo\" y \"No contaban con mi astucia\". Visto por generaciones en toda América Latina.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Bob Fosse",
+      "description": "Bailarín y coreógrafo que creó musicales como \"All That Jazz\" y \"Cabaret\". Su estilo incluía rodillas hacia adentro, sombreros de copa, bastones y uso copioso de \"jazz hands\" - técnica donde las manos se muestran abiertas con dedos separados.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Heisenberg",
+      "description": "Físico teórico alemán, creador del principio de incertidumbre y ganador del Nobel de Física por su desarrollo de la mecánica cuántica. Su nombre fue usado como alias para el fabricante de metanfetamina Walter White en la serie Breaking Bad.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Rosie la Remachadora",
+      "description": "Ícono de la Segunda Guerra Mundial que representaba a las mujeres estadounidenses trabajando en fábricas. Se asocia con el póster \"We Can Do It!\" de Westinghouse, mostrándola flexionando el brazo en camisa azul y pañuelo rojo. Su precursora canadiense fue Ronnie.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Vladimir Putin sin Camisa",
+      "description": "Ex oficial de la KGB y actual presidente de Rusia. Cultiva una imagen ruda en medios estatales, siendo mostrado montando a caballo semidesnudo y \"descubriendo\" dos urnas de la Antigua Grecia en el Mar Negro. Famoso por fotos sin camisa.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Christopher Walken",
+      "description": "Actor conocido por sus lecturas de líneas extrañas, habilidades de baile y rostro inquietantemente atractivo. A pesar de ganar un Oscar, es más conocido por el video musical \"Weapon of Choice\" y como Bruce Dickinson en SNL pidiendo \"more cowbell\".",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Los 33 Mineros de Chile",
+      "description": "Mineros atrapados durante 69 días a 700 metros bajo tierra en la mina San José en 2010. Su rescate fue transmitido en vivo a todo el mundo. Cada uno fue subido en una cápsula especial. El presidente Piñera estuvo presente en el rescate.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Jackson Pollock",
+      "description": "Pintor expresionista abstracto conocido por sus pinturas de goteo, creadas colocando el lienzo en el suelo y vertiendo pintura desde arriba. Su pintura \"No. 5, 1948\" fue vendida por $140M en 2006 por David Geffen - la segunda pintura más cara vendida.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Calígula",
+      "description": "Emperador romano conocido por su crueldad, extravagancia y perversidad sexual. Fue el primer emperador romano en ser asesinado. Es más conocido por ser el personaje titular de una película semi-pornográfica protagonizada por Malcolm McDowell.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Julian Assange",
+      "description": "Editor en jefe de WikiLeaks. Temiendo extradición a Suecia por agresión sexual y a EE.UU. por espionaje relacionado con las filtraciones de Chelsea Manning, vivió en la embajada ecuatoriana en Londres desde junio 2012 hasta su arresto en 2019.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "El Flautista de Hamelín",
+      "description": "Personaje del folclore medieval que alejó a un grupo de niños del pueblo de Hamelín, Alemania con una flauta mágica. Fue contratado para limpiar la ciudad de una plaga de ratas, pero tras no recibir pago, usó la flauta para secuestrar a los niños.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Atlas",
+      "description": "Titán de la mitología griega que fue forzado a sostener las esferas celestiales como castigo por luchar contra los dioses olímpicos en la Guerra de los Titanes. A menudo se le muestra sosteniendo una esfera en sus hombros, comúnmente confundida con la Tierra.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "El Perro de Pavlov",
+      "description": "Canino de los experimentos de condicionamiento clásico del fisiólogo ruso. Al tocar una campana asociada con comida, podía inducir al animal a salivar incluso sin comida presente. Extendió estos experimentos a niños, que sufrieron cirugías para recolectar mejor su saliva.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    }
+  ],
+  "range": {
+    "start": 21,
+    "end": 40,
+    "count": 20
+  }
+}

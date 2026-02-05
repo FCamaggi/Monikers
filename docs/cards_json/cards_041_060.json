@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "Oscar Pistorius",
+      "description": "Sometimes known as \"Blade Runner\" or \"the fastest man on no legs,\" this sprinter became the first double leg amputee to participate in the Olympics. He was subsequently charged with the murder of his girlfriend, but maintains that he confused her for an intruder.",
+      "category": "CELEBRITY",
+      "points": 2
+    },
+    {
+      "name": "Leeroy Jenkins",
+      "description": "A World of Warcraft player famous for going afk while his guild planned a complicated raid, then proceeded to run into the encounter screaming his own name and getting his guildmates killed. After being called \"stupid as hell,\" he cryptically replied \"At least I have chicken.\"",
+      "category": "CELEBRITY",
+      "points": 4
+    },
+    {
+      "name": "Lou Gehrig",
+      "description": "A first baseman for the New York Yankees and member of baseball's Hall of Fame. He was the first baseball player to have his uniform number retired. Late in his career, he developed amyotrophic lateral sclerosis (ALS), which is now synonymous with his name.",
+      "category": "HISTORICAL FIGURE",
+      "points": 2
+    },
+    {
+      "name": "Elian Gonzalez",
+      "description": "A Cuban boy who was the subject of an international incident when his relatives attempted to keep him in the US against his father's wishes that he return to Cuba. A famous image from the event shows an armed border agent discovering the boy cowering in a closet.",
+      "category": "HISTORICAL FIGURE",
+      "points": 2
+    },
+    {
+      "name": "A Raver",
+      "description": "A person who attends a party featuring electronic music, dancing, and visual effects. Attendees are often characterized as being under the influence of MDMA, using fluorescent glow sticks, sucking on pacifiers, applying Vicks VapoRub, and wearing phat pants.",
+      "category": "ET CETERA",
+      "points": 2
+    },
+    {
+      "name": "Al Roker",
+      "description": "The flamboyant weatherman for The Today Show who was known for being obese before having gastric bypass surgery. He was famously thrown to the ground reporting on Hurricane Wilma. He also writes mystery novels about Billy Blessing, a chef and amateur detective.",
+      "category": "CELEBRITY",
+      "points": 2
+    },
+    {
+      "name": "Charlton Heston",
+      "description": "An actor and President of the NRA, who starred in such films as The Ten Commandments, The Omega Man, and Planet of the Apes, where he was known for lines such as \"Take your stinking paws off me you damn dirty apes!\" He became a vociferous gun advocate in the 80s.",
+      "category": "CELEBRITY",
+      "points": 1
+    },
+    {
+      "name": "Jacques Cousteau",
+      "description": "A French conservationist and media figure, who devoted his life to the study of the ocean. Following his death, members of his crew alleged that scenes from his films were staged. For instance, pouring bleach into a container to get footage of an octopus scrambling out.",
+      "category": "HISTORICAL FIGURE",
+      "points": 2
+    },
+    {
+      "name": "Mr. Trololo",
+      "description": "The internet moniker of Eduard Khil, a Russian singer who became famous when his 1976 recording of \"I Am Glad, 'Cause I'm Finally Returning Back Home\" was uploaded to YouTube. Khil performs the song using nonsense syllable rather than the lyrics.",
+      "category": "CELEBRITY",
+      "points": 4
+    },
+    {
+      "name": "Dr. Henry Heimlich",
+      "description": "A surgeon credited with inventing a maneuver that prevents suffocation when a person is choking by jamming your fist into their abdomen. He also advocated for the technique be used to treat drowning (don't do it) and that malaria could treat cancer, Lyme disease, and HIV.",
+      "category": "HISTORICAL FIGURE",
+      "points": 1
+    },
+    {
+      "name": "The Shoe Bomber (Richard Reid)",
+      "description": "A would-be suicide bomber who tried and failed to blow up a plane with his casual footwear. He was caught trying to use a match to light a fuse mid-flight, explosive sneaker in his lap. The incident prompted the TSA to institute footwear screening at airports.",
+      "category": "CELEBRITY",
+      "points": 2
+    },
+    {
+      "name": "Slimer",
+      "description": "A character from the Ghostbusters franchise, who appears as a transparent green blob composed of pure Ectoplasm. Ravenously consuming all food in sight, writer and actor Dan Aykroyd allegedly referred to him as \"The Ghost of John Belushi.\"",
+      "category": "FICTIONAL CHARACTER",
+      "points": 1
+    },
+    {
+      "name": "Magic Mike",
+      "description": "The title character of a Steven Soderbergh film about a male stripper who performs at Xquisite Strip Club. Played by Channing Tatum, the character is loosely based on Tatum's real-life experience as a young stripper in Tampa, Florida.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 1
+    },
+    {
+      "name": "Drunk Jeff Goldblum",
+      "description": "An actor who appeared in an Apple ad that was remixed on YouTube to make his speech sound slow and slurred (\"What do you think the greatest gift of the holidays is? Internet?\"). He has also appeared in The Fly, Jurassic Park, and many other films.",
+      "category": "CELEBRITY",
+      "points": 2
+    },
+    {
+      "name": "Princess Di",
+      "description": "The ex-wife of Prince Charles and mother of William and Harry. She died tragically in a Paris car crash, which was found to be the result of grossly negligent driving and to the presence of paparazzi. Her funeral was one of the most viewed events in television history.",
+      "category": "HISTORICAL FIGURE",
+      "points": 1
+    },
+    {
+      "name": "The Raven",
+      "description": "A large black bird and the subject of a poem by Edgar Allan Poe. In it, the bird visits a man grieving the loss of his love, Lenore. Sitting above him on a bust of the goddess Athena, the bird repeats the words \"nevermore\" to the man's inquiries, slowly driving him mad.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "The Loch Ness Monster",
+      "description": "A legendary cryptid, who supposedly lives in a deep freshwater lake in the Scottish Highlands. Believers speculate that the creature is a marine dinosaur that somehow survived to modern day. The scientific community continues to regard the creature as a hoax.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Teddy Ruxpin",
+      "description": "A storytelling toy bear from the 80s, who had an audio cassette deck in his body. Stories such as \"The Wooly What's-It: Learning Can Be Fun!\" and \"Tweeg and the Bound-ers: You Have to Earn the Things Worth Having\" tended to focus on promoting positive behavior.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Rosemary's Baby",
+      "description": "The title infant from a 70s horror film by Roman Polanski. Its mother, played by Mia Farrow, fears that her husband made a Satanic pact with their neighbors in order for success in his acting career. At the conclusion, it is revealed that the child is actually the spawn of Satan.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Your Mom",
+      "description": "The woman who gave birth to you and/or raised you. The word above or the actual name of your real-life caregiver are both valid.",
+      "category": "ET CETERA",
+      "points": 2
+    }
+  ],
+  "range": {
+    "start": 41,
+    "end": 60,
+    "count": 20
+  }
+}

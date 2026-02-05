@@ -1,0 +1,27 @@
+{
+  "cards": [
+    {
+      "name": "John McAfee",
+      "description": "The creator of annoying anti-virus software, who in 2012 fled Belize for Guatemala under suspicion of murder. Vice Media accidentally gave away his location and he was deported to the US. He is often photographed shirtless with young women and assault weapons.",
+      "category": "CELEBRITY",
+      "points": 4
+    },
+    {
+      "name": "Chris Farley",
+      "description": "An overweight comedian known for his iconic roles on TV and film. He portrayed a guy who \"lives in a van down by the river,\" a \"fat guy in a little coat,\" and sometimes just a guy who falls down and breaks things. He died of a cocaine and morphine overdose at 33.",
+      "category": "CELEBRITY",
+      "points": 1
+    },
+    {
+      "name": "A Booth Babe",
+      "description": "A promotional model, often a scantily clad woman, who is paid to interact with potential costumers at conventions and other public events. Nintendo infamously demoed its 3DS console by chaining them to bikini-wearing members of this profession.",
+      "category": "ET CETERA",
+      "points": 3
+    }
+  ],
+  "range": {
+    "start": 281,
+    "end": 283,
+    "count": 3
+  }
+}

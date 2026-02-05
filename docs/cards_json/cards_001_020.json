@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "A Narwhal",
+      "description": "An Arctic whale with a large protruding tusk, which is actually an elongated canine tooth. Its name translates to \"corpse whale\" from the Old Norse, due to the similarity of its flesh tone with a drowned sailor. According to the Weebl's Stuff song, they are so awesome.",
+      "category": "ET CETERA",
+      "points": 4
+    },
+    {
+      "name": "Achilles",
+      "description": "An Ancient Greek hero and demigod from Homer's Iliad, who defeated the Trojan warrior Hector as revenge for killing his friend and lover Patroclus. He was later killed by an arrow to his heel—the only part of his body that was vulnerable to physical injury.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "A Velociraptor",
+      "description": "A bipedal, feathered carnivore from the Cretaceous Period. It is one of the most well-known dinosaurs due to its prominent role in the 1993 film Jurassic Park, where it was depicted inaccurately as large and feather-less, but quite accurately as a clever girl.",
+      "category": "CARD BY PATRICK KLEPEK",
+      "points": 2
+    },
+    {
+      "name": "Homo Erectus",
+      "description": "A distant relative of humans that went extinct approximately 100,000 years ago. Latin for \"upright man,\" this hominid walked vertically and likely lived in small hunter-gatherer bands, but lacked the large cranial capacity of anatomically modern humans.",
+      "category": "HISTORICAL FIGURE",
+      "points": 2
+    },
+    {
+      "name": "L. Ron Hubbard",
+      "description": "A science fiction author and the founder of Scientology. The religion derives from his self-help program Dianetics, which he modestly described as \"a milestone for man comparable to his discovery of fire and superior to his invention of the wheel and the arch.\"",
+      "category": "HISTORICAL FIGURE",
+      "points": 2
+    },
+    {
+      "name": "Evander Holyfield's ear",
+      "description": "The hearing organ of the 4-time heavyweight champion boxer. It was partially torn off during a 1997 bout with Mike Tyson that is now known as \"The Bite Fight.\" In Round 3, Tyson bit into its outer rim with his teeth before spitting the piece of flesh onto the canvas.",
+      "category": "CELEBRITY",
+      "points": 2
+    },
+    {
+      "name": "Hodor",
+      "description": "Winterfell's stableboy in George R.R. Martin's A Song of Ice and Fire and the Game of Thrones TV adaptation. He carries the crippled Bran Stark around in a large basket. Though his real name is Walder, he is only referred to by this name, since it is the only word he ever uses.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 3
+    },
+    {
+      "name": "A Communist",
+      "description": "A member of a political movement that believes in the common ownership of the means of production. The concept was first developed by the German political philosopher Karl Marx and became the national ideology of the Soviet Union in the 20th century.",
+      "category": "ET CETERA",
+      "points": 2
+    },
+    {
+      "name": "God",
+      "description": "The Supreme Being, who monothe-ists often believe to be omniscient, omnipotent, omnipresent, and responsible for the creation of the universe. In the West, he is often depicted as an old white man with a long gray beard.",
+      "category": "HISTORICAL FIGURE",
+      "points": 1
+    },
+    {
+      "name": "Uncle Tom",
+      "description": "A racial epithet used against members of a subjugated group, particularly African Americans, who display excessive deference to authority. The term is derived from the eponymous character in the 1852 novel by Harriet Beecher Stowe. FICTIONAL CHARACTER 2 POINTS GOATSE A shock site linking unsuspecting victims to the file hello.jpg, an image of a naked man stretching his anus several inches in diameter. The man's wedding band is clearly visible on his left ring finger. The site used the rare top-level domain for the Christmas Islands, .cx. CELEBRITY 4 POINTS A Bleeder A person who loses blood quickly because of a lower than average clotting rate, otherwise known as a hemophilia. This term was made famous in the 1998 comedy There's Something About Mary, where Ben Stiller's character Ted damages his genitals with a zipper. ET CETERA 3 POINTS The first President of the US. John Adams claimed that his famed toothlessness was the result of cracking Brazil nuts. His false teeth were not made of wood, but hippopotamus and elephant ivory. He had a previous pair most likely made from, no joke, slave teeth. FICTIONAL FIGURE 1 POINT P.F. Chang The combined identity of Paul Fleming and Philip Chiang, the two founders of the eponymous Asian Fusion restaurant founded in Scottsdale, Arizona in 1993. They operate over 200 restaurants across the US, far more than its equally middlebrow competitor, Benihana. FICTIONAL CHARACTER 2 POINTS A Roomba An automated vacuum cleaner marketed as a convenient way to clean one's home. Its sensors allow it to navigate each room, cleaning under furniture and in often-ignored corners. Cats have been known to ride it. It definitely does not record your daily movements. ET CETERA 3 POINTS",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Joe Camel",
+      "description": "The debonair, bipedal ungulate and mascot for an R.J. Reynolds brand of cigarettes. When internal documents demonstrated that the company was targeting children as future smokers, the character was retired and replaced with a more traditional quadruped in 1997.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 1
+    },
+    {
+      "name": "David Carradine",
+      "description": "An actor and martial artist who played the lead role in the show Kung Fu and Bill in the film Kill Bill. In 2009, he was found dead in the closet of his Bangkok hotel room. Evidence suggests that his death was the result of autoerotic asphyxiation.",
+      "category": "CELEBRITY",
+      "points": 3
+    },
+    {
+      "name": "Carlos Danger (Anthony Weiner)",
+      "description": "The nom de sext of a former Congressman who resigned after he sent explicit photos of himself via Twitter. Despite losing his job over the photos, he was involved in a subsequent scandal after it was revealed that he continued sending explicit photos under this alias.",
+      "category": "CELEBRITY",
+      "points": 2
+    },
+    {
+      "name": "Joe Biden",
+      "description": "The 47th Vice President of the US. His blue collar image has led to a series of humorous articles in The Onion, such as \"Joe Biden Shows Up To Inauguration With Ponytail\" and \"Obama Issues Presidential Pardon To Get Biden Out Of Jail For Third Time This Year.\"",
+      "category": "CELEBRITY",
+      "points": 1
+    },
+    {
+      "name": "Kim Jong-il",
+      "description": "The former Supreme Leader of the Democratic People's Republic of Korea and author of On the Art of the Cinema. His family is at the center of an elaborate personality cult in the so called \"Hermit Kingdom.\" A famous tumble collected photos of him looking at things.",
+      "category": "HISTORICAL FIGURE",
+      "points": 2
+    },
+    {
+      "name": "A Fetus",
+      "description": "The stage of development between embryo and birth. It is sometimes categorized by the presence of all major body organs (though not necessarily functioning), typically around the 11th week of gestation. In humans, it is approximately 1.2\" in length from crown to rump.",
+      "category": "ET CETERA",
+      "points": 1
+    },
+    {
+      "name": "Doge",
+      "description": "An Internet meme that shows a Shiba Inu surrounded by colorful Comic Sans text that describes its inner monologue, such as \"Wow,\" \"Concern,\" and \"so scare.\" There is much confuse over the name's pronunciation, yet it was recently used to brand a Bitcoin competitor.",
+      "category": "CELEBRITY",
+      "points": 3
+    },
+    {
+      "name": "A Russian Nesting Doll",
+      "description": "A set of colorful wooden figurines that decrease in size and are placed inside of one another. Associated with a former Communist nation, they are often painted as women, but themes vary from babushkas to Star Wars characters to just Batmans all the way down.",
+      "category": "ET CETERA",
+      "points": 2
+    },
+    {
+      "name": "Rick Santorum",
+      "description": "The former Republican Senator whose name, in retribution for comparing homosexuality to bestiality, was redefined in a contest held by sex columnist Dan Savage as \"the frothy mixture of lube and fecal matter that is sometimes the byproduct of anal sex.\"",
+      "category": "CELEBRITY",
+      "points": 2
+    },
+    {
+      "name": "Blacula",
+      "description": "The title character from a horror film about an 18th century African prince turned vampire. Locked in a coffin for two centuries by Count Dracula, the box was purchased as part of an estate by two interior decorators who accidentally set him loose in 70s Los Angeles.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 4
+    }
+  ],
+  "range": {
+    "start": 1,
+    "end": 20,
+    "count": 20
+  }
+}

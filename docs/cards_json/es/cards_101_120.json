@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "Un Ciberacosador",
+      "description": "Persona que usa redes sociales para lanzar ataques personales, rumores o fotos o videos embarazosos. Se sabe que las víctimas han tomado sus propias vidas. Rebecca Black afirma haber sido víctima tras recibir muchos comentarios de odio en la página de YouTube de su canción 'Friday'.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Un Never Nude",
+      "description": "El término popular para un gimnofóbico, persona que teme la desnudez. La condición fue satirizada en Arrested Development, donde el personaje Tobias Fünke usaba shorts de jean cortados todo el tiempo. Hasta 2014, la condición aún no es reconocida por el DSM.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Un Juggalo",
+      "description": "Fan de Insane Clown Posse. Estos individuos se reúnen en el bosque cada año para una 'Reunión' anual, donde celebran su cultura compartida de lucha libre, beber soda Faygo, pintarse la cara y escuchar música horrible, horrible, horrible.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Un Preparacionista del Apocalipsis",
+      "description": "Sujeto de un reality show, estos individuos planean su supervivencia tras el colapso de la civilización. Probablemente tienen un alijo de armas, comida enlatada para hacer 'estofado de búnker', y la creencia de que beber la propia orina purificada no es gran cosa.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "El Ladrón de Catán",
+      "description": "Pieza del juego de mesa de 1995 de Klaus Teuber. En la historia del juego, es el personaje más villano de la isla ficticia. Comenzando en el hex del desierto, pronto comienza a robar cartas y drenar recursos bajo la dirección de cualquier jugador que saque un 7.",
+      "category": "CARTA POR AMY & JOSH STERN",
+      "points": 4
+    },
+    {
+      "name": "Werner Herzog",
+      "description": "Director alemán cuyas películas a menudo presentan su propia narración filosófica ('Creo que el denominador común del universo no es la armonía, sino el caos, la hostilidad y el asesinato'). Una vez le dispararon con un rifle de aire durante una entrevista y continuó como si nada.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "David Hasselhoff",
+      "description": "Actor y músico que protagonizó Knight Rider y Baywatch. Su hija grabó un video de él, sin camisa y ebrio, tratando de comer una hamburguesa en el piso de un hotel de Las Vegas, mientras ella le daba una conferencia sobre la importancia de la sobriedad. Los alemanes lo aman.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Un Blue Man",
+      "description": "Miembro de un colectivo musical protagonizado por un trío de humanoides interpretados por músicos con gorros calvos y maquillaje azul. Para satisfacer la demanda, se han reclutado docenas de nuevos intérpretes, proceso satirizado en Arrested Development con el aspirante Tobias Fünke.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Un Príncipe Nigeriano",
+      "description": "Practicante de África Occidental de una 'estafa 419', también conocida como fraude de tarifa anticipada. Las víctimas reciben mensajes de correo electrónico de una persona que afirma ser realeza desplazada que necesita ayuda para transferir fondos fuera de su país a cambio de pago futuro.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Una Basic Bitch",
+      "description": "Insulto que describe a una mujer con personalidad aburrida o falta de estilo. El término se originó en el hip hop y apareció en un sketch de comedia de un doctor diagnosticando la condición, que incluye síntomas como poseer velas aromáticas y pedir Pumpkin Spice lattes.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Tom de MySpace",
+      "description": "Cofundador del sitio de redes sociales más popular del mundo antes de Facebook. Se volvió instantáneamente reconocible porque todos los usuarios que se unían al sitio automáticamente lo agregaban como 'amigo'. Vendió el sitio por $580M a News Corporation de Rupert Murdoch.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Un Cosplayer",
+      "description": "Jugador de rol disfrazado que aparece en público como un personaje ficticio. El vestuario a menudo está inspirado en manga, anime, cómics, videojuegos y películas - realmente cualquier cosa de la cultura nerd. Aunque no son sinónimos, hay cierta superposición con LARPers y Furries.",
+      "category": "ET CÉTERA",
+      "points": 4
+    },
+    {
+      "name": "Un Bottom (Pasivo)",
+      "description": "En la cultura gay, persona que prefiere la penetración durante el acto sexual, generalmente a través del ano. Una encuesta de casi 56,000 perfiles en gay.com encontró que 32% de encuestados de EE.UU. preferían bottom, 26% top, y 42% el rol versátil.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Sinéad O'Connor",
+      "description": "Música irlandesa que buscó controversia en muchas ocasiones, más famosamente en un episodio de SNL de 1992, donde protestó el escándalo de abuso sexual de la iglesia católica rasgando una foto del Papa Juan Pablo II y diciendo 'Pelea contra el verdadero enemigo'.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Steve Irwin, el Cazador de Cocodrilos",
+      "description": "Conservacionista australiano y personalidad mediática conocido por sus shorts caqui, acento y expresión característica 'Crikey'. Murió en 2006 cuando una raya lo golpeó en pulmones y corazón con su púa durante la filmación de un documental titulado Ocean's Deadliest.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Un n0Ob (Novato)",
+      "description": "Término para principiante o novato en una actividad, a menudo usado en referencia a actividad en internet, como juegos en línea o hacking informático. El término se escribe usando leetspeak, el alfabeto que usa caracteres ASCII alternativos como reemplazo de letras latinas.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Dolly la Oveja",
+      "description": "El primer mamífero en ser clonado de una célula madre adulta. Tomada de una glándula mamaria, demostró que una célula de una parte específica del cuerpo podía usarse para replicar un nuevo individuo. Murió a los 6.5 años de enfermedad pulmonar progresiva, bastante común en su especie.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Un Castor Entusiasta",
+      "description": "Expresión para una persona extremadamente entusiasta o trabajadora que supuestamente se originó entre soldados canadienses en la Segunda Guerra Mundial. El término deriva de los roedores acuáticos constructores de represas, que terraformaron gran parte de Norteamérica con sus estructuras de madera.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Oskar Schindler",
+      "description": "Industrial alemán adinerado que protegió a sus empleados judíos de fábrica de la deportación y muerte durante el Holocausto. Para el final de la Segunda Guerra Mundial, había gastado toda su fortuna en sobornos a oficiales nazis y artículos del mercado negro para los trabajadores de su famosa lista.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Ouroboros",
+      "description": "Símbolo antiguo que representa la naturaleza cíclica de la existencia, el retorno eterno y el renacimiento. Su primer uso conocido fue en una fuente del Antiguo Egipto, pero aparece en muchas culturas. Se representa más frecuentemente como una serpiente comiéndose su propia cola.",
+      "category": "ET CÉTERA",
+      "points": 4
+    }
+  ],
+  "range": {
+    "start": 101,
+    "end": 120,
+    "count": 20
+  }
+}

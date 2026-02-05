@@ -1,0 +1,447 @@
+{
+  "cards": [
+    {
+      "name": "Doge",
+      "description": "Muy wow. El perro meme que se burla del mundo cripto. Un Shiba Inu rodeado de texto Comic Sans en colores que describe su monólogo interior: 'Wow', 'Concern', 'so scare'.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Monstruo de Espaguetis Volador",
+      "description": "Una religión parodia cuya confesión de fe incluye salsa. Creada para criticar la enseñanza del diseño inteligente. Sus seguidores son 'pastafaris' y usan coladores en la cabeza.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Una Matrioska Rusa",
+      "description": "El símbolo de la repetición eterna: todo es solo una cáscara. Un conjunto de muñecas de madera coloridas que decrecen en tamaño y se colocan una dentro de otra. Asociadas con una antigua nación comunista.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "El Chupacabras",
+      "description": "La gran pesadilla de los granjeros en Puerto Rico. Una criatura legendaria que supuestamente ataca ganado y chupa su sangre. Avistamientos reportados en toda Latinoamérica.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Un Furry",
+      "description": "Por favor, no hables de sexualidad ni del disfraz de peluche. Miembro de una subcultura interesada en personajes animales antropomórficos. A menudo usan trajes elaborados de sus 'fursonas'.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Kobayashi",
+      "description": "El campeón legendario de comer hot dogs. Dominó la competencia de Nathan's durante años usando técnicas revolucionarias como el 'método Salomón'. Fue destronado por Joey Chestnut.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Heisenberg",
+      "description": "El químico que lo cambió todo. Walter White en Breaking Bad adopta este alias cuando comienza a cocinar metanfetamina azul de alta pureza. 'Yo soy el peligro.'",
+      "category": "PERSONAJE FICTICIO",
+      "points": 1
+    },
+    {
+      "name": "Rosie la Remachadora",
+      "description": "El ícono de la fuerza femenina en la guerra. Póster de propaganda de la Segunda Guerra Mundial que muestra a una mujer trabajadora flexionando su bíceps con el mensaje 'We Can Do It!'",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Un Narval",
+      "description": "El unicornio cínico de los mares árticos. Ballena de tamaño mediano con un colmillo largo en espiral que sobresale de su cabeza. A menudo llamado 'el unicornio del mar'.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Un Velociraptor",
+      "description": "No puede abrir la puerta, aunque lo intente. Dinosaurio terópodo del período Cretácico. Famoso por la escena de Jurassic Park donde aprende a abrir puertas usando las manijas.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "El Cerebro de Hitler",
+      "description": "Probablemente solo un puré gris y deprimente. El órgano pensante del líder nazi. Supuestamente fue preservado por los soviéticos después de su suicidio en 1945.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 4
+    },
+    {
+      "name": "Homo Erectus",
+      "description": "Nuestro antepasado perezoso pero inteligente. Especie extinta de homínido que vivió hace 2 millones de años. Fue el primero en usar el fuego y en migrar fuera de África.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "100 Caballos del Tamaño de Patos",
+      "description": "Todos prefieren un pato del tamaño de un caballo. Pregunta hipotética viral: '¿Preferirías pelear contra un caballo del tamaño de un pato o 100 patos del tamaño de caballos?'",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "L. Ron Hubbard",
+      "description": "El marketing de los thetanes está perfectamente orquestado. Escritor de ciencia ficción que fundó la Cienciología. Afirmó que los humanos son 'thetanes' inmortales atrapados en cuerpos físicos.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Aquiles",
+      "description": "Un solo flechazo hizo la diferencia. Héroe griego de la Guerra de Troya. Invulnerable excepto por su talón, donde su madre lo sostuvo al sumergirlo en el río Estigia.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Putin sin Camisa",
+      "description": "Pesca con las manos desnudas y musculosas. El presidente ruso en fotos propagandísticas mostrando su torso mientras pesca, monta a caballo, o practica judo. Meme de masculinidad performativa.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Christopher Walken",
+      "description": "Siempre necesita más campanas (¡Cowbell!) en sus películas. Actor conocido por su cadencia de voz peculiar y pausas dramáticas. Famoso por el sketch de SNL 'More Cowbell'.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "El Perro de Pavlov",
+      "description": "La prueba de que somos manipulables. Los perros del experimento del fisiólogo ruso Ivan Pavlov que salivaban al escuchar una campana. Demostró el condicionamiento clásico.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Calígula",
+      "description": "Hizo cónsul a su caballo: completamente loco. Emperador romano conocido por su crueldad y excentricidad. Supuestamente planeó hacer cónsul a su caballo favorito, Incitatus.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Un Ravero",
+      "description": "Ropa neón y sudor: su único capital. Asistente a fiestas rave que baila música electrónica durante horas. Usa pulseras de colores, bastones luminosos y ropa fluorescente.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Julian Assange",
+      "description": "El filtrador que se autoexilió. Fundador de WikiLeaks que publicó documentos clasificados. Pasó años refugiado en la embajada de Ecuador en Londres.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Jacques Cousteau",
+      "description": "Conocía la profundidad de los mares. Explorador oceanográfico francés, inventor del regulador de buceo. Famoso por sus documentales submarinos y su gorro rojo.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "El Flautista de Hamelín",
+      "description": "Un pésimo proveedor de servicios, muy poco fiable. Personaje de cuento alemán que libró al pueblo de ratas con su flauta mágica. Cuando no le pagaron, se llevó a todos los niños del pueblo.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "Mr. Trololo",
+      "description": "Bucle infinito de alegría sin palabras. Eduard Khil, cantante soviético cuya actuación vocal sin letras ('I Am Glad, 'Cause I'm Finally Returning Back Home') se volvió viral.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Atlas",
+      "description": "La carga de la responsabilidad es insoportable. Titán de la mitología griega condenado a sostener el cielo sobre sus hombros por toda la eternidad como castigo por rebelarse contra Zeus.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "La Oreja de Evander Holyfield",
+      "description": "La mordida más cara de la historia del deporte. Durante su pelea de 1997, Mike Tyson mordió y arrancó parte de la oreja del boxeador. Tyson fue descalificado.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Hodor",
+      "description": "Sostiene la puerta y el destino. Personaje de Game of Thrones cuyo nombre viene de 'Hold the door'. En una escena trágica, sostiene una puerta para salvar a Bran mientras es atacado.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Un Comunista",
+      "description": "Quiere compartir todo, menos a su jefe. Seguidor de la ideología política basada en la propiedad común de los medios de producción. 'De cada cual según su capacidad, a cada cual según su necesidad.'",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Khalid Sheikh Mohammed",
+      "description": "El verdadero cerebro del terrorismo. Arquitecto principal de los ataques del 11 de septiembre. Capturado en 2003 y detenido en Guantánamo.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 4
+    },
+    {
+      "name": "Un Ilusionista",
+      "description": "Engaña al público con estilo. Artista que realiza trucos de magia y prestidigitación. Diferente de un mago, se enfoca en la ilusión y el engaño visual sofisticado.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Un Castrato",
+      "description": "Sin huevos, solo canto celestial. Cantante masculino castrado antes de la pubertad para preservar su voz aguda. Práctica común en la ópera europea de los siglos XVII-XVIII.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 4
+    },
+    {
+      "name": "Un Perezoso Bebé",
+      "description": "Lento, indefenso y adorable. Cría del mamífero arbóreo más lento del mundo. Se mueve tan lentamente que algas crecen en su pelaje. Viral en videos tiernos.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Kurt Cobain",
+      "description": "Cantó contra el sistema que lo hizo rico. Líder de Nirvana y voz del grunge. Escribió 'Smells Like Teen Spirit'. Se suicidó en 1994 a los 27 años.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Tonya Harding",
+      "description": "Las rodillas de su rival eran su único objetivo. Patinadora artística estadounidense cuyo guardaespaldas atacó a Nancy Kerrigan antes de los Juegos Olímpicos de 1994.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Un Topo",
+      "description": "Ciego, pero increíblemente persistente y activo. Pequeño mamífero subterráneo con vista muy pobre pero sentidos del tacto y olfato excepcionales. Cava túneles elaborados.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Anne Frank",
+      "description": "La voz contra el Holocausto. Niña judía que escribió un diario mientras se escondía de los nazis en Ámsterdam. Murió en un campo de concentración. Su diario fue publicado mundialmente.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 1
+    },
+    {
+      "name": "Prince",
+      "description": "El rey del púrpura y la provocación. Músico icónico conocido por 'Purple Rain', 'When Doves Cry'. Cambió su nombre a un símbolo impronunciable. Virtuoso de múltiples instrumentos.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Deep Blue",
+      "description": "Prueba de que las máquinas son más listas que nosotros. Supercomputadora de IBM que en 1997 derrotó al campeón mundial de ajedrez Garry Kasparov. Hito histórico de la inteligencia artificial.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Una Barba",
+      "description": "Cuidado: incluye migas y restos. Vello facial que crece en mejillas, mentón y cuello. Símbolo de masculinidad, sabiduría o hipsterismo según el contexto cultural.",
+      "category": "ET CÉTERA",
+      "points": 1
+    },
+    {
+      "name": "La Mujer que se Derramó Café en McDonald's",
+      "description": "La legendaria víctima de la justicia americana. Stella Liebeck sufrió quemaduras de tercer grado por café extremadamente caliente. Ganó demanda millonaria. Símbolo de cultura litigante estadounidense.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "El Cocinero Sueco",
+      "description": "¡Børk, børk, børk! ¿Alguien lo entiende? Chef de los Muppets que habla en jerigonza escandinava incomprensible. Sus intentos de cocinar siempre terminan en caos cómico.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "El Ojo de Sauron",
+      "description": "La vigilancia absoluta y eterna. La manifestación del señor oscuro en El Señor de los Anillos. Un ojo gigante de fuego en la cima de la Torre Oscura que todo lo ve.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Bloody Mary",
+      "description": "No solo un cóctel barato en el bar. Leyenda urbana de una entidad que aparece en espejos cuando dices su nombre tres veces. También cóctel con vodka y jugo de tomate.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Coronel Sanders",
+      "description": "El viejo y su legendario pollo. Harland Sanders, fundador de Kentucky Fried Chicken (KFC). Reconocible por su traje blanco, corbata negra y barba de chivo.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 1
+    },
+    {
+      "name": "El Kraken",
+      "description": "Lamentablemente, tiene demasiados brazos. Monstruo marino gigante de la mitología nórdica. Calamar o pulpo colosal que ataca barcos. 'Release the Kraken!'",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Un Leproso",
+      "description": "Debe tocar la campana y advertir a todos. Persona que sufre de lepra, enfermedad que causa lesiones en la piel. Históricamente marginados, debían advertir de su presencia.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Un Cylon",
+      "description": "Te matan porque eres débil. Robots humanoides de Battlestar Galactica que se rebelaron contra sus creadores humanos. Pueden parecerse exactamente a humanos.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "¡Khan!",
+      "description": "El grito del odio eterno y profundo. Villano de Star Trek interpretado por Ricardo Montalbán. El Capitán Kirk grita '¡Khaaaaan!' en una escena icónica de The Wrath of Khan.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Splinter",
+      "description": "Entrena a cuatro adolescentes mutantes y tontos. Rata mutante maestra de las Tortugas Ninja. Les enseñó ninjutsu y filosofía. Vive en las alcantarillas de Nueva York.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Babar",
+      "description": "Es rey. Nadie lo elegiría. Elefante antropomórfico de libros infantiles franceses. Huyó de la jungla, vivió en París, regresó y se convirtió en rey de los elefantes.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Una Cabra Desmayada",
+      "description": "La cabra finge la muerte, muy teatral. Cabra con miotonía congénita que se paraliza cuando se asusta. Sus músculos se congelan y cae de lado. Videos virales.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Burning Man",
+      "description": "Hippies construyen una ciudad solo para quemarla. Festival anual en el desierto de Nevada. Participantes crean arte, música y comunidad temporal. Culmina quemando una figura gigante.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Un Furby",
+      "description": "Aprende tu oscuro lenguaje humano. Juguete electrónico peludo de los 90s con ojos grandes. Habla su propio idioma ('Furbish') y supuestamente aprende inglés. Ligeramente terrorífico.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Un Sherpa",
+      "description": "Carga tu equipaje y tus fracasos. Grupo étnico de Nepal expertos en montañismo. Guías esenciales para expediciones al Everest. Cargan equipamiento pesado a grandes altitudes.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Tío Tom",
+      "description": "Se somete al sistema dominante. Personaje de 'La Cabaña del Tío Tom' de Harriet Beecher Stowe. Término peyorativo para afroamericano que se somete a blancos.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "Fúchur",
+      "description": "Siempre ríe, incluso en la nada. Dragón de la suerte blanco de 'La Historia Interminable'. Vuela sin alas, tiene escamas nacaradas y trae buena fortuna.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "Lord of the Dance",
+      "description": "Baile irlandés con mucha testosterona. Espectáculo de danza irlandesa creado por Michael Flatley. Bailarines con torsos rígidos y pies extremadamente rápidos.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "El Caballo de Troya",
+      "description": "Un regalo que al final te mata. Estratagema griega en la Guerra de Troya. Gigante caballo de madera ofrecido como regalo que escondía soldados griegos dentro.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Edipo",
+      "description": "Se ciega a sí mismo. Esa es la solución. Rey de Tebas en mitología griega que sin saberlo mató a su padre y se casó con su madre. Al descubrirlo, se arrancó los ojos.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Un Bro",
+      "description": "Siempre lleva su camiseta de tirantes. Estereotipo de joven machista, superficial y fiestero. Usa ropa de gimnasio, habla de 'gainz' y llama 'bro' a todos.",
+      "category": "ET CÉTERA",
+      "points": 1
+    },
+    {
+      "name": "Un Hemofílico",
+      "description": "Nada de chistes sangrientos, por favor. Persona con trastorno donde la sangre no coagula correctamente. Un pequeño corte puede causar hemorragia severa.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Octomom",
+      "description": "El verdadero culpable es el médico. Nadya Suleman, quien en 2009 dio a luz octillizos mediante FIV. Ya tenía 6 hijos. Controversia sobre ética médica y responsabilidad.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Un Roomba",
+      "description": "Solo aspira el centro de tu habitación. Aspiradora robótica automática circular. Navega aleatoriamente chocando con objetos. A veces se queda atascada bajo muebles.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Un Acumulador",
+      "description": "No puede tirar absolutamente nada. Persona con trastorno de acumulación compulsiva. Su hogar está lleno de objetos que no puede desechar. Programas de TV documentan casos extremos.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Un Neandertal",
+      "description": "Tenía ojos más grandes y oscuros. Especie extinta de homínido que convivió con Homo sapiens. Contrario a estereotipos, eran inteligentes. Muchos humanos tienen ADN neandertal.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Joe Camel",
+      "description": "La mascota escandalosa de los 90. Camello antropomórfico 'cool' usado para publicitar cigarrillos Camel. Prohibido en 1997 por atraer a menores.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Garganta Profunda",
+      "description": "Lo sabía todo. Nixon igual mintió. Informante anónimo del escándalo Watergate. Revelado como Mark Felt, subdirector del FBI. También título de película pornográfica famosa.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Liberen a Willy",
+      "description": "La orca feliz de los 90. Película de 1993 sobre un niño que libera una orca de un parque acuático. La orca real (Keiko) fue posteriormente liberada en Islandia.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "William Shatner",
+      "description": "Su carrera musical es un desastre. Actor que interpretó al Capitán Kirk en Star Trek. Conocido por su estilo de actuación dramático y pausado. También grabó álbumes musicales de... dudosa calidad.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Joe Biden",
+      "description": "Su mayor logro es su resistencia eterna. 46º presidente de Estados Unidos. Fue vicepresidente con Obama. Conocido por sus metidas de pata verbales y aviadores espejados.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Krang",
+      "description": "Un cerebro parlante y baboso en el estómago. Villano de las Tortugas Ninja. Cerebro alienígena que vive en el abdomen de un cuerpo androide. Viene de la Dimensión X.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "Kim Jong-un",
+      "description": "Come queso y amenaza al mundo. Dictador de Corea del Norte. Conocido por su corte de pelo único, pruebas nucleares y supuesta adicción al queso suizo.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Un Dron",
+      "description": "Mata desde lejos y seguro. Vehículo aéreo no tripulado controlado remotamente. Usado para vigilancia, entregas y ataques militares. Controversia ética sobre su uso.",
+      "category": "ET CÉTERA",
+      "points": 2
+    }
+  ],
+  "range": {
+    "start": 304,
+    "end": 383,
+    "count": 80
+  }
+}

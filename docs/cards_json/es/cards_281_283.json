@@ -1,0 +1,27 @@
+{
+  "cards": [
+    {
+      "name": "John McAfee",
+      "description": "El creador del molesto software antivirus, quien en 2012 huyó de Belice a Guatemala bajo sospecha de asesinato. Vice Media accidentalmente reveló su ubicación y fue deportado a Estados Unidos. A menudo es fotografiado sin camisa con mujeres jóvenes y armas de asalto.",
+      "category": "CELEBRIDAD",
+      "points": 4
+    },
+    {
+      "name": "Chris Farley",
+      "description": "Un comediante con sobrepeso conocido por sus roles icónicos en TV y cine. Interpretó a un tipo que \"vive en una van río abajo\", un \"tipo gordo en un abrigo pequeño\", y a veces solo un tipo que cae y rompe cosas. Murió de una sobredosis de cocaína y morfina a los 33.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Una Chica de Stand",
+      "description": "Una modelo promocional, a menudo una mujer con poca ropa, que es pagada para interactuar con clientes potenciales en convenciones y otros eventos públicos. Nintendo infamemente demostró su consola 3DS encadenándolas a miembros de esta profesión usando bikini.",
+      "category": "ET CÉTERA",
+      "points": 3
+    }
+  ],
+  "range": {
+    "start": 281,
+    "end": 283,
+    "count": 3
+  }
+}

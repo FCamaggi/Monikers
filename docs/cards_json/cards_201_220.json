@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "Joyce Carol Oates",
+      "description": "An American novelist, playwright, and Princeton professor. Her works in \"In a Region of Ice\" and \"A Garden of Earthy Delights\" and nearly 40 other novels. Born in 1938, she still writes in longhand and her productivity and discipline are legendary among writers.",
+      "category": "CELEBRITY",
+      "points": 4
+    },
+    {
+      "name": "John Philip Sousa",
+      "description": "A composer and conductor known as \"The March King.\" He created many marches still in use today, such as \"The Stars and Stripes Forever.\" He also designed a large brass instrument that wraps around the body of the musician, which he named after himself.",
+      "category": "HISTORICAL FIGURE",
+      "points": 3
+    },
+    {
+      "name": "Grizzly Adams",
+      "description": "A legendary 19th century mountain man, who was famous for fighting and capturing bears. During a “play fight” with one of his bears, his scalp was dislodged, leaving the brain tissue permanently exposed. He died after a monkey bite into the open wound, causing an infection.",
+      "category": "HISTORICAL FIGURE",
+      "points": 3
+    },
+    {
+      "name": "A LARPer",
+      "description": "A person who assumes the persona of a character in a fictional setting, often created by them. The concept was inspired by Dungeons & Dragons and other early roleplaying games, but spans genres from high fantasy to steampunk to zombie Apocalypse.",
+      "category": "ET CETERA",
+      "points": 3
+    },
+    {
+      "name": "Marion Barry",
+      "description": "The former mayor of Washington, DC, who narrowly suffered an electoral defeat after a videotape leaked of him smoking crack. He was later reelected mayor after serving six months in federal prison. He is currently on the DC City Council and remains a controversial figure.",
+      "category": "HISTORICAL FIGURE",
+      "points": 3
+    },
+    {
+      "name": "The Zodiac Killer",
+      "description": "A serial murderer whose identity is still unknown. His name is a reference to letters sent by him to newspapers that included a 408-character cipher, which he claimed revealed his identity. In one possible decoding, he claims that his victims will be his slaves in the afterlife.",
+      "category": "HISTORICAL FIGURE",
+      "points": 4
+    },
+    {
+      "name": "E. Honda",
+      "description": "A sumo wrestler from the Street Fighter video game series. His character possesses above-average strength but below-average speed, except when executing his Hundred Violent Sumo Hands move, commonly known as the Hundred Hand Slap. His blood type is A.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Carlton Banks",
+      "description": "The Fresh Prince of Bel-Air's cousin and Uncle Phil's heir. Played by Alfonso Ribeiro, he is depicted as a preppy young Republican, who is probably best known for his spazzy dance to Tom Jones's song \"It's Not Unusual\" and being slapped on the back of the head.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 3
+    },
+    {
+      "name": "Miss Havisham",
+      "description": "The original spinster from the novel Great Expectations. On the day of her wedding, she discovered that she had been defrauded by her betrothed. Heartbroken, from that day she lived alone in her mansion, shunned company, and never removed her wedding dress.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 3
+    },
+    {
+      "name": "Bees!",
+      "description": "Flying, communal insects that are found on every continent except Antarctica. They often live in large hives knows as colonies, with a queen, workers, and drones. Many species of these produce honey, which humans harvest in a series of hives known as apiary.",
+      "category": "ET CETERA",
+      "points": 3
+    },
+    {
+      "name": "Gizmo",
+      "description": "A fuzzy pet from the Gremlins horror-comedy franchise. His owners were implored by Mr. Wing to follow three simple rules in caring for their Mogwai: (1) Do not expose him to bright light; (2) Do not get him wet; and (3) Do not feed him after midnight.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 3
+    },
+    {
+      "name": "Quetzalcoatl",
+      "description": "An ancient Mesoamerican god and flying reptile whose name means \"feathered serpent.\" It has been claimed since the 16th century that Aztec leader Montezuma II believed the appearance of Spanish conquistador Hernán Cortés signaled his return.",
+      "category": "HISTORICAL FIGURE",
+      "points": 3
+    },
+    {
+      "name": "Mother Brain",
+      "description": "The antagonist of the Metroid video game franchise. She is typically depicted as a brain in a vat with spikes and a single eyeball, though she sometimes transforms into a bipedal monster that looks kind of like an old lady. She also appeared in the Captain N cartoon series.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 3
+    },
+    {
+      "name": "Balki Bartokomous",
+      "description": "A character from the sitcom Perfect Strangers. He is a rustic from the island of Mypos, who Cousin Larry acclimates to big city Chicago. Features of the character include celebrating with the \"dance of joy\" and exclaiming \"Don't be ridiculous\" when it is he who is being ridiculous.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 3
+    },
+    {
+      "name": "Admiral Ackbar",
+      "description": "A fish-like humanoid who commanded the Rebel Alliance's fleet in Star Wars: Episode VI. He planned a sneak attack on the second Death Star as it orbited the forest moon of Endor. Imperial forces knew of the impending assault, leading to his iconic line \"It's a trap!\"",
+      "category": "FICTIONAL CHARACTER",
+      "points": 3
+    },
+    {
+      "name": "Raskolnikov",
+      "description": "The lead character in Dostoyevsky's novel Crime and Punishment. Impoverished in St. Petersburg, he murders a pawnbroker with an axe, which he justifies through a theory that some people have the right to commit murder. He confesses his crime and is exiled to Siberia.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 3
+    },
+    {
+      "name": "Hester Prynne",
+      "description": "The protagonist of Nathaniel Hawthorne's The Scarlet Letter. Set in 17th century New England, she has an affair and conceives a child with the minister of her church. After being found guilty of adultery, she is forced to wear a scarlet \"A\" on her dress as a signal of shame.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 3
+    },
+    {
+      "name": "Stephen Hawking",
+      "description": "A theoretical physicist and cosmologist who made major contributions to the field of general relativity. He has a motor neuron disease that leaves him almost entirely paralyzed. He communicates exclusively through a speech generating device.",
+      "category": "CELEBRITY",
+      "points": 1
+    },
+    {
+      "name": "Duck Hunt Dog",
+      "description": "Your canine companion in an NES game where you used the system's Zapper light gun to shoot waterfowl as they emerge from bushes. While ostensibly meant to be to fetch your kills, this character's primary role was to laugh at your pitiful performance.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 3
+    },
+    {
+      "name": "The Last Unicorn",
+      "description": "The single-horned title character from an 80s animated film, who discovers that she is the only remaining member of her species. Voiced by Mia Farrow, she is pursued by a creature called the Red Bull. Defeating him, she returns her kind back into the world.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 4
+    }
+  ],
+  "range": {
+    "start": 201,
+    "end": 220,
+    "count": 20
+  }
+}

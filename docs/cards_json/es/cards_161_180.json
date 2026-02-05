@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "El 1%",
+      "description": "Una clasificación política y económica para el grupo de individuos que ganan hasta un cuarto del ingreso total en Estados Unidos. Se derivó de los eslóganes del movimiento Occupy Wall Street de 2011, que buscaban resaltar la creciente desigualdad económica.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Helen Keller",
+      "description": "La autora, izquierdista y sufragista sordociega, cuya maestra, Anne Sullivan, le enseñó a comunicarse deletreando palabras en sus manos, comenzando con la palabra \"muñeca\". Su relación fue el tema de la obra biográfica y película The Miracle Worker.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Un Mormón",
+      "description": "Un miembro de los Santos de los Últimos Días, inspirados por las visiones del estadounidense Joseph Smith del siglo XIX. Una vez fueron infames porque algunos miembros practicaban la poligamia. Los miembros que participan en ceremonias de investidura usan ropa interior especial llamada \"prendas del templo\".",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "La Morsa",
+      "description": "El personaje de una canción de los Beatles de su álbum Magical Mystery Tour. Es una referencia al poema de Lewis Carroll, también sobre un mamífero marino volteado. Las letras que siguen, \"Goo Goo Ga Joob\", posiblemente dichas por el personaje, fueron tomadas de Finnegan's Wake.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Robocop",
+      "description": "El personaje principal de una película de ciencia ficción de los 80s sobre un policía cyborg al que la malvada megacorporación Omni Consumer Products le asigna proteger Detroit. En 2011, un grupo recaudó $67,436 en el sitio de crowdfunding Kickstarter para crear una estatua de bronce de 7 pies de alto del personaje.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Betsy Ross",
+      "description": "La persona que se cree ampliamente cosió la primera bandera estadounidense para George Washington. La investigación del Museo Nacional de Historia Estadounidense sugiere que esta historia no entró en la cultura popular hasta su celebración del centenario de 1876, poniendo en duda la veracidad de esta afirmación.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "El Gran Hermano",
+      "description": "La personificación del estado niñera, que proviene del líder totalitario de Oceanía en la novela 1984 de George Orwell. Se le recuerda frecuentemente que está \"observándote\", aunque en un ejemplo del doblepensar de la novela, la expresión es tanto una amenaza velada como una tranquilidad.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Tubgirl",
+      "description": "Una imagen de shock que representa a una mujer desnuda y enmascarada acostada de espaldas en la bañera, con una fuente de líquido amarillento-naranja surgiendo de su ano hacia su cara, supuestamente el resultado de un enema de jugo de naranja. La imagen se decía que era popular en Japón.",
+      "category": "CELEBRIDAD",
+      "points": 4
+    },
+    {
+      "name": "El Superyó",
+      "description": "Una de las tres partes del modelo de la psique de Sigmund Freud que constituyen la vida mental. Esta parte forma la capacidad de una persona para castigarse a sí misma por el mal comportamiento. A menudo se basa en lecciones culturales, actuando como una fuente de reglas de padres y otras figuras de autoridad.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Kenny G",
+      "description": "Un saxofonista de jazz suave, que es universalmente despreciado por los aficionados al jazz mientras que simultáneamente es uno de los artistas de grabación más vendidos de todos los tiempos. Usando respiración circular, estableció un récord mundial por la nota más larga grabada manteniendo un Mi bemol durante 45 minutos y 47 segundos.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Solange Knowles",
+      "description": "Una cantante, miembro temporal de Destiny's Child y hermana de Beyoncé. En 2014, TMZ publicó un video de seguridad de ella agrediendo físicamente a su cuñado, Jay-Z, quien junto con Beyoncé, no tomó represalias. La causa de su arrebato permanece desconocida.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Un Pug",
+      "description": "Una raza de perro braquicefálico de hocico corto. Generaciones de endogamia han llevado a pasajes respiratorios compactos que los dejan incapaces de regular su temperatura corporal jadeando. Muchas aerolíneas han restringido su transporte debido a muertes en el aire.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "El Hombre Invisible",
+      "description": "El título tanto de la novela de Ralph Ellison sobre la lucha de los intelectuales negros en la América de principios del siglo XX como de la novela de ciencia ficción de H.G. Wells sobre un hombre avaro y sediento de poder que es capaz de alterar el índice de refracción de su cuerpo para no reflejar luz.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Carrie",
+      "description": "El personaje principal de una película de terror basada en una historia de Stephen King. Ella manifiesta habilidades telequinéticas después de ser acosada por su primer período. En el clímax de la película, es rociada con un balde volcado de sangre de cerdo en el baile de graduación, lo que la lleva a matar a la mayoría de los asistentes en un incendio eléctrico.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Prancer",
+      "description": "Uno de los renos voladores que tira del trineo de Santa en \"La Noche Antes de Navidad\". Su nombre también se usa en un método de fitness y meme de internet de Joanna Rohrback que es una \"forma elástica y rítmica de moverse hacia adelante, similar al galope de un caballo e idealmente inducida por júbilo\"",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "HAL-9000",
+      "description": "La computadora sensible de 2001: Odisea del Espacio de Stanley Kubrick. Inicialmente una parte útil de la nave, eventualmente se vuelve contra la tripulación, matando al Dr. Poole antes de ser desconectada por Dave. A medida que su mente se va, canta \"Daisy Bell\" mientras suplica por su vida.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Un Objeto Inamovible",
+      "description": "Una mitad de una famosa paradoja que pregunta qué pasaría si una cosa que no puede ser detenida encuentra una cosa que no puede ser movida.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Chairy",
+      "description": "Un personaje icónico de Pee-wee's Playhouse, un programa infantil de acción real creado y protagonizado por Paul Reubens. Ella es una pieza de mueble azul parlante y cantante con grandes ojos y una boca entre sus cojines. Tiene una relación extrañamente coqueta con Pee-wee.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "El Elefante que Thomas Edison Electrocutó (Topsy)",
+      "description": "Un paquidermo que fue contrabandeado a Estados Unidos para actuar en el circo. Después de matar a su entrenador, fue ejecutada públicamente siendo alimentada con zanahorias mezcladas con cianuro y recibiendo una corriente AC de 6,600 voltios. El evento fue capturado en película y usado como truco promocional.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 4
+    },
+    {
+      "name": "El Nazi de la Sopa",
+      "description": "Un personaje menor del sitcom Seinfeld. Ejerce control estricto sobre los clientes de su restaurante y practica discriminación de precios sobre la venta de su comida a base de caldo. Fue inspirado por Al Yeganeh, un chef de la ciudad de Nueva York, quien famosamente se ofendió por el apodo.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    }
+  ],
+  "range": {
+    "start": 161,
+    "end": 180,
+    "count": 20
+  }
+}

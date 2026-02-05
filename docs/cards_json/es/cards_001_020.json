@@ -1,0 +1,124 @@
+{
+  "cards": [
+    {
+      "name": "Un Narval",
+      "description": "Una ballena ártica con un gran colmillo protuberante, que en realidad es un diente canino alargado. Su nombre se traduce como \"ballena cadáver\" del nórdico antiguo, debido a la similitud de su tono de carne con un marinero ahogado. Según la canción de Weebl's Stuff, son increíbles.",
+      "category": "ETCÉTERA",
+      "points": 4
+    },
+    {
+      "name": "Aquiles",
+      "description": "Un héroe y semidiós de la Antigua Grecia de la Ilíada de Homero, que derrotó al guerrero troyano Héctor como venganza por matar a su amigo y amante Patroclo. Fue asesinado más tarde por una flecha en su talón, la única parte de su cuerpo que era vulnerable a lesiones físicas.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Un Velociraptor",
+      "description": "Un carnívoro bípedo emplumado del Período Cretácico. Es uno de los dinosaurios más conocidos debido a su papel prominente en la película de 1993 Jurassic Park, donde fue representado incorrectamente como grande y sin plumas, pero bastante acertadamente como una chica lista.",
+      "category": "CARTA DE PATRICK KLEPEK",
+      "points": 2
+    },
+    {
+      "name": "Homo Erectus",
+      "description": "Un pariente distante de los humanos que se extinguió hace aproximadamente 100,000 años. En latín significa \"hombre erguido\", este homínido caminaba verticalmente y probablemente vivía en pequeñas bandas de cazadores-recolectores, pero carecía de la gran capacidad craneal de los humanos anatómicamente modernos.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "L. Ron Hubbard",
+      "description": "Un autor de ciencia ficción y fundador de la Cienciología. La religión deriva de su programa de autoayuda Dianética, que modestamente describió como \"un hito para el hombre comparable a su descubrimiento del fuego y superior a su invención de la rueda y el arco\".",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "La oreja de Evander Holyfield",
+      "description": "El órgano auditivo del boxeador campeón de peso pesado 4 veces. Fue parcialmente arrancada durante un combate de 1997 con Mike Tyson que ahora se conoce como \"La Pelea de la Mordida\". En la ronda 3, Tyson mordió su borde exterior con los dientes antes de escupir el trozo de carne en la lona.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Hodor",
+      "description": "El mozo de cuadra de Winterfell en Canción de Hielo y Fuego de George R.R. Martin y la adaptación de TV Game of Thrones. Lleva al lisiado Bran Stark en una gran canasta. Aunque su nombre real es Walder, solo se le conoce por este nombre, ya que es la única palabra que usa.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 3
+    },
+    {
+      "name": "Un Comunista",
+      "description": "Un miembro de un movimiento político que cree en la propiedad común de los medios de producción. El concepto fue desarrollado por primera vez por el filósofo político alemán Karl Marx y se convirtió en la ideología nacional de la Unión Soviética en el siglo XX.",
+      "category": "ETCÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Doge",
+      "description": "Un meme de Internet que muestra un Shiba Inu rodeado de texto colorido en Comic Sans que describe su monólogo interior, como \"Wow\", \"Concern\" y \"so scare\".",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Una Matrioska Rusa",
+      "description": "Un conjunto de coloridas figuritas de madera que disminuyen de tamaño y se colocan una dentro de otra. Asociadas con una antigua nación comunista.",
+      "category": "ETCÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Rick Santorum",
+      "description": "El ex senador republicano cuyo nombre, en represalia por comparar la homosexualidad con la bestialidad, fue redefinido por Dan Savage como \"la mezcla espumosa de lubricante y materia fecal\".",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Blacula",
+      "description": "El personaje principal de una película de terror sobre un príncipe africano del siglo XVIII convertido en vampiro. Encerrado en un ataúd durante dos siglos por el Conde Drácula, la caja fue comprada por decoradores en Los Ángeles de los años 70.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 4
+    },
+    {
+      "name": "Georgia O'Keeffe",
+      "description": "Una pintora modernista estadounidense cuyo trabajo se inspiró en el paisaje de Nuevo México. Famosa por la extraña semejanza de muchas de sus flores pintadas con genitales femeninos.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Ébola",
+      "description": "Un virus que causa fiebre hemorrágica, típicamente adquirido por contacto con un mono infectado, murciélago frugívoro o persona. Sus síntomas más graves pueden incluir sangrado por los ojos.",
+      "category": "ETCÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Un Furry",
+      "description": "Una persona que usa un traje completo de animal, a menudo para convenciones, juegos de rol o recreación personal. Su uso en actividad sexual es un tema controvertido en la comunidad.",
+      "category": "ETCÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Gallagher",
+      "description": "Un comediante de utilería famoso por aplastar sandías con su característico Sledge-O-Matic. Una vez demandó a su hermano por hacer giras bajo el nombre del comediante.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Kobayashi",
+      "description": "Un comedor competitivo japonés que sorprendió al mundo en 2001 al comer 50 hot dogs y panes en 12 minutos. Una vez perdió un concurso de comer hot dogs contra un oso Kodiak de 1089 libras.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "El Monstruo de Espagueti Volador",
+      "description": "La deidad del Pastafarianismo, una religión parodia que se opone al diseño inteligente. Una versión contemporánea de la tetera de Russell, se representa como un grupo de pasta y albóndigas.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 3
+    },
+    {
+      "name": "Sylvia Plath",
+      "description": "Poetisa, autora y esposa de Ted Hughes, conocida por su estilo confesional de poesía así como por su novela La Campana de Cristal. Metió su cabeza en un horno sin encender.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "El Unabomber (Ted Kaczynski)",
+      "description": "Un profesor de matemáticas terrorista, que enviaba paquetes explosivos por correo. Cuando Penthouse ofreció publicar su manifiesto, pidió reservarse el derecho a plantar una bomba más.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    }
+  ]
+}

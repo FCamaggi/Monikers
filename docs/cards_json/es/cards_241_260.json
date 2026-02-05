@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "Jacob el Joyero",
+      "description": "Proveedor de bling para los ricos y famosos. Le suministró a Kanye West su Pieza de Jesús—y fue pedido por Kanye, en \"Diamonds from Sierra Leone\" que no mintiera sobre la fuente de sus diamantes. Fue sentenciado a prisión por su conexión con la Familia Mafia Negra con base en Detroit.",
+      "category": "CELEBRIDAD",
+      "points": 4
+    },
+    {
+      "name": "Sísifo",
+      "description": "Un antiguo rey griego a quien Zeus castigó por su arrogancia forzándolo a rodar una roca colina arriba, solo para verla rodar de vuelta abajo y ser forzado a repetir este proceso infinitamente. El mito de su lucha fue usado con propósitos filosóficos por Albert Camus.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "John Wayne Gacy, Jr.",
+      "description": "Un asesino serial que violó y asesinó a más de 30 adolescentes en los 70s, almacenando sus restos en el sótano de su casa de Chicago. Era muy querido en la comunidad, apareciendo en eventos de caridad y fiestas infantiles vestido como su personaje Pogo el Payaso.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Mama Cass",
+      "description": "El nombre artístico de Ellen Naomi Cohen, miembro de la banda que interpretó éxitos como \"California Dreamin\" y \"Monday Monday\". Luchó con la obesidad la mayor parte de su vida, y por mucho tiempo se rumoreó que murió ahogándose con un sándwich de jamón o un hueso de pollo.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Archiduque Franz Ferdinand",
+      "description": "El presunto heredero del Imperio Austro-Húngaro hasta su asesinato en 1914. Esto actuó como catalizador para el comienzo de la Primera Guerra Mundial. Era un ávido cazador, manteniendo un diario de casi 300,000 muertes—100,000 de las cuales se exhibían en su castillo en Konopiště.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Clarence Thomas",
+      "description": "Un Juez de la Corte Suprema que es conocido por nunca cuestionar a los apelantes durante argumentos orales. Su nombramiento fue empañado por alegaciones de su acoso sexual, como preguntar \"¿Quién ha puesto vello púbico en mi Coca?\" y hacer referencia a la estrella porno Long Dong Silver.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Eva Braun",
+      "description": "La amante de largo plazo y esposa de corto tiempo de Adolf Hitler. Se casaron menos de 2 días antes de que ella se suicidara con una cápsula de cianuro mientras Hitler se disparaba en la cabeza con su pistola Walther PPK. Sus cuerpos fueron entonces prendidos en fuego mientras las fuerzas rusas bombardeaban Berlín.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Un Oso (Bear)",
+      "description": "En la cultura gay, un hombre grande, peludo y a menudo hipermasculino. Probablemente fue popularizado por primera vez como término en el artículo de 1979 \"¿Quién es Quién en el Zoo?\" que categorizaba a hombres gay como uno de 7 tipos de animales. Subcategorías de esto incluyen cubs, ewoks y grizzlies.",
+      "category": "ET CÉTERA",
+      "points": 1
+    },
+    {
+      "name": "André el Gigante",
+      "description": "Un francés de 2.24m y 236 kg que fue el primer luchador inducido al Salón de la Fama de WWE. Interpretó al luchador turco que rima Fezzik en La Princesa Prometida. Su capacidad para consumir alcohol era tan legendaria que los doctores la usaban como base para cuánta anestesia administrarle.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "El Bebé Lindbergh",
+      "description": "El hijo infante del primer aviador en volar solo a través del Atlántico. Fue secuestrado en lo que se llamó el \"Crimen del Siglo\". La investigación duró más de dos años, culminando en la ejecución por silla eléctrica de Bruno Hauptmann, quien mantuvo su inocencia.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Perro Fantasma",
+      "description": "El personaje principal de una película de Jim Jarmusch sobre un asesino a sueldo freelance empleado por la Mafia, quien sigue estrictamente el Hagakure, el código del samurái. La película misma es una mezcla de los géneros samurái y gángster, con una banda sonora producida por RZA del Wu-Tang Clan.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Marina Abramović",
+      "description": "Una artista conocida por sus piezas de performance físicamente demandantes. En The Artist is Present, se sentó mirando a visitantes del museo silenciosamente por dos meses. A lo largo de su carrera, ha sido manoseada, escaldada, casi apuñalada, casi violada y casi disparada durante actuaciones.",
+      "category": "CELEBRIDAD",
+      "points": 4
+    },
+    {
+      "name": "Hulka Mujer",
+      "description": "Una superheroína del universo Marvel Comics, quien ganó sus poderes después de recibir una transfusión de sangre de su primo, el Dr. Bruce Banner. Como él, se transforma en una criatura verde y enfurecida. A diferencia de él, es capaz de retener su razón y personalidad mientras lo hace.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "Terri Schiavo",
+      "description": "El sujeto de un caso legal prolongado sobre si terminar el soporte vital. Diagnosticada como estando en un estado vegetativo persistente por sus doctores, su esposo y padres batallaron sobre si remover su tubo de alimentación, a pesar de que ella había firmado una orden de \"no resucitar\".",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Mike Hunt",
+      "description": "Un nombre broma que hace referencia a genitales femeninos, usado para engañar a una persona para que lo diga sin conocimiento del doble significado. Aunque popularizado por la película Porky's, su primer uso fue por Jim Davidson & John Elmo en su serie de llamadas de broma al Tube Bar de Jersey City en los 70s.",
+      "category": "CARTA DE TIM GUNNINK",
+      "points": 3
+    },
+    {
+      "name": "El Tipo que le Tiró los Zapatos a George W. Bush",
+      "description": "Un periodista que gritó \"Este es un beso de despedida del pueblo iraquí, perro\" y lanzó su calzado al 43º presidente de Estados Unidos, quien apenas evitó los proyectiles agachándose bajo su podio. Una estatua de cobre del calzado fue erigida en Tikrit para conmemorar el evento.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Terry Richardson",
+      "description": "Un fotógrafo de moda pervertido conocido por su estilo cándido, lentes y gesto de pulgar arriba. A menudo muestra a sus sujetos contra un fondo blanco, a veces posando con ellos. Ha sido acusado de hacer avances sexuales inapropiados varias veces en su carrera.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "R. Kelly",
+      "description": "Un músico de R&B que grabó \"I Believe I Can Fly\" y \"Trapped in the Closet\". En 2002, se filtró un video de él supuestamente orinando sobre una chica menor de edad, según una acusación de 21 cargos. Fue declarado no culpable, aunque muchos todavía creen que es un depredador sexual.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Colton Burpo",
+      "description": "El sujeto del libro El Cielo Es Real: La Asombrosa Historia de un Niño de su Viaje al Cielo y de Vuelta. Afirma haber tenido visiones de Jesús montando un caballo de colores arcoíris mientras estaba en cirugía. Los escépticos afirman que fue el resultado de alucinaciones bajo anestesia.",
+      "category": "ET CÉTERA",
+      "points": 4
+    },
+    {
+      "name": "Un Policía en el Jardín de Niños",
+      "description": "El personaje principal de una comedia de 1990 sobre un detective que va de incógnito en una escuela primaria y descubre su amor por la enseñanza. Interpretado por Arnold Schwarzenegger, la película es famosa por la línea \"¡No es un tumor!\" que él entrega en su espeso acento austriaco.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    }
+  ],
+  "range": {
+    "start": 241,
+    "end": 260,
+    "count": 20
+  }
+}

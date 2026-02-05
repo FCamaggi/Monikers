@@ -1,0 +1,22 @@
+{
+  "total_cards": 283,
+  "cards_per_file": 20,
+  "num_files": 15,
+  "files": [
+    "cards_001_020.json",
+    "cards_021_040.json",
+    "cards_041_060.json",
+    "cards_061_080.json",
+    "cards_081_100.json",
+    "cards_101_120.json",
+    "cards_121_140.json",
+    "cards_141_160.json",
+    "cards_161_180.json",
+    "cards_181_200.json",
+    "cards_201_220.json",
+    "cards_221_240.json",
+    "cards_241_260.json",
+    "cards_261_280.json",
+    "cards_281_283.json"
+  ]
+}

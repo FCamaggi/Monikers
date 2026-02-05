@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "The Sorcerer's Apprentice",
+      "description": "The assistant to a wizard in Disney's Fantasy. Played by Mickey Mouse, he enchants a broom to fetch water. Unable to control the magic, a flood ensues. Each time he attempts to destroy the broom and end the spell, it splits in half and continues its work at double pace.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Honey Boo Boo",
+      "description": "A child beauty pageant contestant and star of a TLC reality show. She is known for her southern drawl, love of \"Go Go Juice\" (a blend of Mountain Dew and Red Bull), and open-minded attitude, having once said of her uncle, \"Ain't nothing wrong with bein' a little gay.\"",
+      "category": "CELEBRITY",
+      "points": 2
+    },
+    {
+      "name": "Koko",
+      "description": "A gorilla who was taught by her trainer to sign over 1,000 words of GSL (Gorilla Sign Language) and allegedly could understand 2,000 words of English. She chose a mate from a series of videotapes in an early form of online dating, though they have not yet mated.",
+      "category": "HISTORICAL FIGURE",
+      "points": 3
+    },
+    {
+      "name": "The 800 Pound Gorilla",
+      "description": "An idiom that describes a primate so powerful and heavy that it can ignore the rights of others. The original source is a riddle that asks where it sits (A: Anywhere it wants.) This term is commonly confused with a similar expression about an elephant.",
+      "category": "ET CETERA",
+      "points": 4
+    },
+    {
+      "name": "Charizard",
+      "description": "A species of Pokémon that resembles an orange dragon and is the evolved form of Charmleon and the final evolution of Charman-der. Despite its appearance, it is a fire/flying type, NOT a dragon type. Its Japanese name is Lizard (じジ-てん).",
+      "category": "FICTIONAL CHARACTER",
+      "points": 4
+    },
+    {
+      "name": "Portnoy",
+      "description": "The title character from a 1969 novel by Philip Roth that is told as an extended psychotherapy session by a young Jewish bachelor. The novel is notorious for its description of this character masturbating with a piece of raw liver, which his mother later serves for dinner.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 4
+    },
+    {
+      "name": "The Boy Who Cried Wolf",
+      "description": "A shepherd from Aesop's Fables who tricked villagers by raising false alarm about his sheep being attacked. When a legitimate threat occurs, the villagers do not respond and the flock is devoured. The fable appears to have little effect on the likelihood of lying among children.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 4
+    },
+    {
+      "name": "Roland the Farter, Flatulist to the King",
+      "description": "A 12th century court jester to Henry II. In exchange for his services (\"he was obliged to perform every year on the birthday of our Lord before his master, one jump, and a whistle, and one fart\"), he received a manor and 30 acres of land in the county of Suffolk.",
+      "category": "CARD BY MAX TEMKIN",
+      "points": 4
+    },
+    {
+      "name": "Nicholas Georgiton",
+      "description": "Hero or villain? Attorney or Presbyterian? All we know for sure is that he has internet access and $300 in disposable income.",
+      "category": "CARD BY NICHOLAS GEORGITON",
+      "points": 4
+    },
+    {
+      "name": "A Civil War Reenactor",
+      "description": "A \"living historian,\" who spends their free time roleplaying as a Confederate or Union soldier in America's bloodiest war. A participant typically falls into one of three classes, from least to most authentic (and unbearable): farb, mainstream, and progressive.",
+      "category": "HISTORICAL FIGURE",
+      "points": 4
+    },
+    {
+      "name": "Mia Hamm",
+      "description": "A retired professional soccer player who helped lead America's team to their 1999 World Cup win. The iconic photo of her in a sports bra sliding on her knees, yelling with her fists clenched in celebration, is actually of her teammate Brandi Chastain.",
+      "category": "CELEBRITY",
+      "points": 2
+    },
+    {
+      "name": "Dr. Quinn, Medicine Woman",
+      "description": "The title character of a 90s TV show about a 19th century aristocrat who sets up a clinic in Colorado Springs. Played by Jane Seymour, she introduces modern healing practices to the town's locals as well as to her rugged mountain man Byron Sully.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Captain Ahab",
+      "description": "The monomaniacal, peg-legged commander of the Pequod whaleship in Herman Melville's novel Moby Dick. His quest for vengeance against the white whale drives him mad, leading to the death of his entire crew except Ishmael, the novel's narrator.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Oprah's best friend (Gayle)",
+      "description": "The co-anchor of CBS This Morning and Editor-at-large for O Magazine. She gained notoriety for her long-running relationship with a famous talk show host and \"Queen of All Media.\" Despite being married to a man, there are persistent rumors that the two are lovers.",
+      "category": "CELEBRITY",
+      "points": 4
+    },
+    {
+      "name": "Skeleton",
+      "description": "The main villain in the Masters of the Universe fantasy world. He is the arch nemesis of He-Man and is typically shows with a blue humanoid body, bare skull, and purple hood. His goal is to learn the secrets of Castle Grayskull and use them to conquer the land of Eternia.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Star Wars Kid",
+      "description": "The star of a viral video that shows a high school student imitating light Saber moves using a golf ball retriever. The tape leaked online after being left in the basement of his school, leading to dozens of remixes featuring music and advanced special effects.",
+      "category": "CARD BY ANDY BAIO",
+      "points": 3
+    },
+    {
+      "name": "A Merman",
+      "description": "The male version of the mythological creature that is a woman from the waist up but has a fish tail in place of legs. Their behaviors and abilities range across cultures, and include having green teeth, the ability to cure illnesses, seducing women, and holding tridents.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Montezuma",
+      "description": "The 9th tlatoani of Tenochtitlan and ruler of the Aztec Triple Alliance. During their first contact with Europeans, he was killed by conquistador Hernán Cortés's men as the fled his capital. His \"revenge\" is a euphemism for contracting traveler's diarrhea in Mexico.",
+      "category": "HISTORICAL FIGURE",
+      "points": 2
+    },
+    {
+      "name": "A Damsel in Distress",
+      "description": "A sexist archetype in literature, film, and games of a helpless woman that must be saved by a male character, such as Princess Peach in the Mario franchise. A recent YouTube series by Feminist Frequency charted the plot device throughout the history of gaming.",
+      "category": "ET CETERA",
+      "points": 2
+    },
+    {
+      "name": "Clippy",
+      "description": "The nickname of the Office Assistant in Microsoft Office, who appears as the metal object used to hold sheets of paper together. He would \"tap\" on the monitor to get your attention. Supposedly, Microsoft's internal name for it was TFC (The Fucking Clown).",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    }
+  ],
+  "range": {
+    "start": 141,
+    "end": 160,
+    "count": 20
+  }
+}

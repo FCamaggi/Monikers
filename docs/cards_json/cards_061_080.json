@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "The Swedish Chef",
+      "description": "A cook and Muppet that hails from Northern Europe. He wears a toque blanche and speaks in sing-songy gibberish. Humans from his country of origin often find the character offensive and claim that his accent totally sounds more like Norwegian anyway.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "The Eye of Sauron",
+      "description": "A manifestation of the title character in J.R.R. Tolkien's fantasy series The Lord of the Rings. Frodo describes it as \"rimmed with fire, but was itself glazed, yellow as a cat's, watchful and intent, and the black slit of its pupil opened on a pit, a window into nothing.\"",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Bubble Boy",
+      "description": "A person with a genetic disease that leaves them vulnerable to infection and forced to live in a completely sterile environment. One was famously portrayed on Seinfeld, where he fought with George over a Trivial Pursuit card that read \"Moops\" instead of \"Moors.\"",
+      "category": "FICTIONAL CHARACTER",
+      "points": 3
+    },
+    {
+      "name": "Bloody Mary",
+      "description": "A legendary ghost who is said to be conjured in a mirror by saying her name multiple times. Often attempted by young girls, the ghost is sometimes said to reveal the future and other times said to attempt to scratch the person's eyes out.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Colonel Sanders",
+      "description": "The founder of Kentucky Fried Chicken, whose likeness is also used on their logo. He is easily identified by his white hair, goatee, black-rimmed glasses, white suit, and string tie. His honorific title refers to a Kentucky tradition rather than a military rank.",
+      "category": "HISTORICAL FIGURE",
+      "points": 1
+    },
+    {
+      "name": "O.J. Simpson",
+      "description": "Former professional football player, actor, and Isotoner spokesman. He was found not guilty of murder in one of the most public trials of the 20th century. He wrote a book about the case called if I Did It and is currently incarcerated for the theft of his own sports memorabilia.",
+      "category": "HISTORICAL FIGURE",
+      "points": 1
+    },
+    {
+      "name": "The Hamburglar",
+      "description": "A young, red-headed thief who dresses in striped clothing and steals items from the McDonald's restaurant chain. Originally an old man with a long nose inexplicably called the \"Lone Jogger,\" he has since ceased being a villain in the McDonald land universe.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "A Leper",
+      "description": "A person infected with Hansen's Disease, which sometimes results in the inability to feel pain and consequent loss of body parts. To prevent the spread of the disease, they were historically separated into isolated colonies-a practice still alive in India and China.",
+      "category": "ET CETERA",
+      "points": 2
+    },
+    {
+      "name": "Khan!",
+      "description": "A villain from the Star Trek franchise, who once controlled a portion of the earth during the Eugenics Wars of the 90s. Ricardo Montalban played the genetically engineered superhuman, delivering lines such as \"Revenge is a dish that is best served cold.\"",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "The Kaiser",
+      "description": "The title of German leader Wilhelm II, who ruled until the end of World War I. He was depicted in propaganda with an exaggerated handlebar mustache and Pickelhaube, the spiked helmet of the Prussian army. He was also once accused of stealing our word for \"twenty.\"",
+      "category": "HISTORICAL FIGURE",
+      "points": 3
+    },
+    {
+      "name": "A California Raisin",
+      "description": "A member of a fictional R&B group composed of anthropomorphic dried grapes from the West Coast. They came to prominence in claymation form, singing a cover of \"I Heard It Through the Grapevine\" in an advertisement. They were also popular as plastic toys.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "A Hungry Hungry Hippo",
+      "description": "The title character of a children's game that teaches kids to eat marbles. Each of the four players simultaneously mash a plastic lever to get their character-a colorful version of the third largest land mammal-to consume as many of these inedible objects as possible.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Aunt Jemima",
+      "description": "The pretty racist mascot of a line of pancake mixes and syrups by the Quaker Oats Company. Her character was derived from a minstrel show's mammy-like figure. Like Uncle Ben, she represents an idealized view of domestic servitude in southern life.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Jesus H. Christ",
+      "description": "A subversive Jewish rabbi, who Christians believe to be the Son of God and Messiah of the Old Testament. He allegedly performed miracles, was crucified by the Romans, and rose from the dead. A middle initial is used in various oaths, but its origin is unclear.",
+      "category": "HISTORICAL FIGURE",
+      "points": 1
+    },
+    {
+      "name": "The Kraken",
+      "description": "A gigantic mythical sea monster that first appeared in Norse mythology. Because of its size, it was thought to have been inspired by giant squid sightings. In contemporary media, is often seen being \"released\" or \"unleashed\" upon an unsuspecting hero.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "A TSA Agent",
+      "description": "An employee of a US Department of Homeland Security branch. Many of its employees are posted in airports to screen passengers and their property, including pat-downs and viewing x-rays. Their average salary is $25K-$38K per year, excluding swag.",
+      "category": "ET CETERA",
+      "points": 2
+    },
+    {
+      "name": "A Cylon",
+      "description": "A member of a robotic civilization in the Battlestar Galactica franchise. They were created somewhat by accident on Caprica and are unique in that they experience many common human emotions and are often not fully aware of their status as a robotic lifeform.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Splinter",
+      "description": "An elderly humanoid rat who was the sensei of the Teenage Mutant Ninja Turtles. In the 80s cartoon series, he was mutated from the great samurai warrior, Hamato Yoshi. In other versions, however, this character was the pet rodent of Hamato Yoshi.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Babar",
+      "description": "An elephant from the children's book by Jean de Brunhoff, who criticizes argue offers a justification for colonialism. In the book, he leaves the jungle, visits a city, returns in a green suit, introduces French civilization to his fellow elephants, and is crowned king.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "The Underwear Bomber",
+      "description": "The moniker of Umar Farouk Abdulmutallab, a would-be terrorist who attempted to blow up a passenger plane with explosives sewn into his unmentionables. His plan failed when the explosives were soiled due to his wearing the same pants for two weeks straight.",
+      "category": "CELEBRITY",
+      "points": 3
+    }
+  ],
+  "range": {
+    "start": 61,
+    "end": 80,
+    "count": 20
+  }
+}

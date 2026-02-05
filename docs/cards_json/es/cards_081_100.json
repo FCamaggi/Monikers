@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "Chun-Li",
+      "description": "Personaje de la serie de videojuegos Street Fighter, que se basa principalmente en patadas poderosas ejecutadas con la ayuda de sus muslos notablemente musculosos. Su movimiento más famoso es la Patada Relámpago, con la Patada de Pájaro Giratorio en segundo lugar. Su tipo de sangre es A.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "El T-1000",
+      "description": "Robot metamorfo de Terminator 2. Hecho de metal líquido, Skynet lo envió al pasado para matar a John Connor (Edward Furlong), protegido por el adorable T-800 tecnológicamente inferior de Arnold Schwarzenegger. Billy Idol iba a interpretar el personaje antes de un accidente de moto.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Cthulhu",
+      "description": "Deidad monstruosa creada por H.P. Lovecraft. Mide cientos de metros de altura y tiene brazos y piernas de hombre, garras, cabeza de pulpo gigante y alas de murciélago. Su mitología ganó popularidad por alusiones en la serie de HBO True Detective.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Un Muggle",
+      "description": "Cualquier personaje no mágico en la franquicia de Harry Potter. Su incapacidad para realizar magia era probablemente un rasgo hereditario y fue usado como justificación para persecución por los Mortífagos, grupo extremista que creía que sus linajes de sangre debían permanecer puros.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Una Cabra Desmayada",
+      "description": "Animal de granja que sufre un trastorno genético que hace que sus músculos se congelen aproximadamente 10 segundos cuando se asusta. La condición se conoce formalmente como miotonía congénita, que Buzzfeed una vez describió como 'fácilmente el trastorno neurológico más lindo'.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Conde Chocula",
+      "description": "Vampiro mascota de la serie de cereales basados en monstruos de General Mills. Como sus colegas Franken-Berry, Boo-Berry, Fruit Brute y Yummy Mummy, su origen es un misterio. Su eslogan '¡Quiero comer tu cereal!' parece un poco obvio.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Burning Man",
+      "description": "Efigie de madera de 12 metros que se quema durante un evento de una semana en el Desierto Black Rock de Nevada. Los organizadores niegan cualquier conexión con efigies de mimbre similares construidas por antiguos druidas para rituales celtas paganos que algunos especulan involucraban sacrificio humano.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Un Furby",
+      "description": "Juguete interactivo peludo que se volvió popular a finales de los 90s. Parecido vagamente a un búho, habla un idioma único, aprendiendo español/inglés con el tiempo al interactuar con su dueño. Cuando se sostiene boca abajo dice cosas como 'tengo miedo' y comienza a llorar.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Pee-wee Herman",
+      "description": "Personaje creado por Paul Reubens. Hombre-niño con traje gris ajustado, moño rojo y risa distintiva. Programa infantil 'Pee-wee's Playhouse' con casa hablante. La carrera de Reubens fue arruinada por un escándalo en un cine para adultos. 'I know you are but what am I?'",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Un Sherpa",
+      "description": "Miembro de un grupo étnico nepalí que reside en la cordillera del Himalaya. El término a menudo se refiere a guías que ayudan a escaladores. Entre los más famosos de la historia está Tenzing Norgay, quien alcanzó la cumbre del Monte Everest con Edmund Hillary en 1953.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "El Niño",
+      "description": "Banda de clima cálido que resulta en temperaturas superiores al promedio para la mayor parte de Norteamérica y estaciones más húmedas para la mayor parte de Sudamérica. Este sistema climático inspiró un personaje de Chris Farley en SNL que representaba la tormenta tropical como un luchador profesional fanfarrón.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Ceiling Cat",
+      "description": "Sujeto de una famosa foto de internet que muestra un felino asomándose por un agujero y, supuestamente, 'observándote masturbarte'. En 2010, un usuario de Reddit indicó que el agujero estaba en realidad en una pared. Se dice que el felino tiene un rival en el sótano.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "El Power Ranger Amarillo",
+      "description": "Héroe del show infantil de los 90s que presentaba un equipo de adolescentes que luchaban contra alienígenas transformándose en superhéroes y pilotando robots llamados Zords. El show fue a menudo acusado de racismo por alinear el color de uniforme de cada personaje con la etnia del actor.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "El Baterista Manco de Def Leppard",
+      "description": "Rick Allen, percusionista de la popular banda de hair metal de los 80s conocida por éxitos como 'Love Bites' y 'Pour Some Sugar on Me'. Es conocido por continuar grabando y actuando usando un kit especialmente diseñado tras la amputación de su brazo después de un accidente automovilístico.",
+      "category": "CELEBRIDAD",
+      "points": 4
+    },
+    {
+      "name": "El Tiburón de Tiburón (Jaws)",
+      "description": "Gran tiburón blanco devorador de hombres que aterroriza el pueblo de Amity Island en una película de Steven Spielberg. No se ve hasta bien entrada la película, es tan grande que el personaje de Roy Scheider sugiere que van a 'necesitar un bote más grande'. Fue apodado Bruce.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 1
+    },
+    {
+      "name": "Un Rey Rata",
+      "description": "Criatura compuesta de múltiples roedores anudados por la cola. Si bien existen especímenes en museos de curiosidades, es poco probable que haya existido. También es el nombre de un personaje de las Tortugas Ninja que ejerce influencia telepática sobre roedores.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Ícaro",
+      "description": "Figura mítica de la Antigua Grecia que, junto con su padre Dédalo, escapa del Laberinto con alas de cera. Se le advierte que no vuele demasiado alto o bajo. Ignorando la advertencia, el sol derrite la cera y cae al mar. Metáfora de orgullo y ambición excesiva.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Un Niño Soldado",
+      "description": "Término para una persona joven involucrada en conflictos armados, voluntaria o involuntariamente. Existen convenciones internacionales para limitar esta actividad, pero sigue siendo práctica generalizada, con 200,000 a 300,000 jóvenes actualmente sirviendo en fuerzas rebeldes y gubernamentales.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Una Fuerza Imparable",
+      "description": "Una mitad de una famosa paradoja que pregunta qué sucedería si una cosa que no puede ser detenida se encuentra con una cosa que no puede ser movida. Paradoja filosófica. '¿Qué pasa cuando una fuerza imparable choca con un objeto inamovible?'",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Kate Bush",
+      "description": "Música inglesa conocida por su entrega vocal idiosincrásica, sensibilidad literaria, éxitos como 'Wuthering Heights' y 'Babooshka'. Uno de sus instructores de karate señaló que muchos de sus movimientos de baile deben a su entrenamiento en artes marciales. Resurgió con Stranger Things.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    }
+  ],
+  "range": {
+    "start": 81,
+    "end": 100,
+    "count": 20
+  }
+}

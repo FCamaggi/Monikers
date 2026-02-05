@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "Oscar Pistorius",
+      "description": "Conocido como \"Blade Runner\" o \"el hombre más rápido sin piernas\", este velocista se convirtió en el primer amputado doble de piernas en participar en las Olimpiadas. Posteriormente fue acusado del asesinato de su novia, aunque mantiene que la confundió con un intruso.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Leeroy Jenkins",
+      "description": "Jugador de World of Warcraft famoso por desconectarse mientras su grupo planeaba una raid complicada, luego correr al encuentro gritando su nombre y haciendo que maten a sus compañeros. Tras ser llamado \"estúpido\", respondió críticamente \"Al menos tengo pollo\".",
+      "category": "CELEBRIDAD",
+      "points": 4
+    },
+    {
+      "name": "Hugo Sánchez",
+      "description": "Futbolista mexicano que jugó en el Real Madrid en los 80s. Famoso por sus goles de chilena y sus celebraciones acrobáticas. Máximo goleador del fútbol español en la temporada 1989-90. Considerado el mejor futbolista mexicano de la historia.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Elián González",
+      "description": "Niño cubano que fue sujeto de un incidente internacional cuando sus familiares intentaron mantenerlo en EE.UU. contra los deseos de su padre de que regresara a Cuba. Una imagen famosa muestra a un agente armado descubriendo al niño acobardado en un armario.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Un Raver",
+      "description": "Persona que asiste a fiestas con música electrónica, baile y efectos visuales. Los asistentes se caracterizan por estar bajo influencia de MDMA, usar palos fluorescentes, chupar chupetes, aplicarse Vicks VapoRub y usar pantalones anchos (phat pants).",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Chabelo",
+      "description": "Xavier López, conductor de \"En Familia con Chabelo\" por 48 años en TV mexicana. Personaje infantil icónico vestido de niño con pantalones cortos a pesar de tener más de 80 años. \"Chabeeeeelo!\". Regaló catafíxios y refris a generaciones de niños mexicanos.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Charlton Heston",
+      "description": "Actor y presidente de la NRA que protagonizó películas como Los Diez Mandamientos, El Último Hombre Vivo y El Planeta de los Simios, donde es conocido por líneas como \"¡Quita tus apestosas patas de mí, maldito simio sucio!\". Se volvió activista de armas en los 80s.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Jacques Cousteau",
+      "description": "Conservacionista francés y figura mediática que dedicó su vida al estudio del océano. Tras su muerte, miembros de su tripulación alegaron que escenas de sus películas eran actuadas. Por ejemplo, verter cloro en un contenedor para filmar a un pulpo saliendo.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Mr. Trololo",
+      "description": "El apodo de internet de Eduard Khil, cantante ruso que se hizo famoso cuando su grabación de 1976 de \"Estoy Feliz, Porque Finalmente Regreso a Casa\" fue subida a YouTube. Khil interpreta la canción usando sílabas sin sentido en lugar de las letras.",
+      "category": "CELEBRIDAD",
+      "points": 4
+    },
+    {
+      "name": "Dr. Henry Heimlich",
+      "description": "Cirujano acreditado con inventar una maniobra que previene la asfixia cuando una persona se atraganta clavando tu puño en su abdomen. También abogó porque la técnica se usara para tratar ahogamientos (no lo hagas) y que la malaria podía tratar cáncer, Lyme y VIH.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 1
+    },
+    {
+      "name": "El Chapulín Colorado",
+      "description": "Superhéroe paródico creado por Chespirito. Usa antenas de vinilo, un martillo pequeño y un chipóte chillador. Frases: \"No contaban con mi astucia\", \"Todos mis movimientos están fríamente calculados\". Torpe pero con buen corazón.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Slimer",
+      "description": "Personaje de la franquicia Ghostbusters que aparece como una mancha verde transparente compuesta de puro ectoplasma. Consumiendo vorazmente toda comida a la vista, el escritor y actor Dan Aykroyd supuestamente se refirió a él como \"El Fantasma de John Belushi\".",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 1
+    },
+    {
+      "name": "Magic Mike",
+      "description": "El personaje titular de una película de Steven Soderbergh sobre un stripper masculino que actúa en el Xquisite Strip Club. Interpretado por Channing Tatum, el personaje está vagamente basado en la experiencia real de Tatum como stripper joven en Tampa, Florida.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 1
+    },
+    {
+      "name": "Jeff Goldblum Borracho",
+      "description": "Actor que apareció en un anuncio de Apple que fue remezclado en YouTube para hacer que su discurso sonara lento y arrastrado (\"¿Cuál crees que es el mejor regalo de las fiestas? ¿Internet?\"). También apareció en La Mosca, Jurassic Park y muchas otras películas.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Princesa Diana",
+      "description": "La ex-esposa del Príncipe Carlos y madre de William y Harry. Murió trágicamente en un accidente automovilístico en París, que se determinó fue resultado de conducción gravemente negligente y la presencia de paparazzi. Su funeral fue uno de los eventos más vistos en la historia de la TV.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 1
+    },
+    {
+      "name": "El Cuervo",
+      "description": "Un gran pájaro negro y el sujeto de un poema de Edgar Allan Poe. En él, el pájaro visita a un hombre lamentando la pérdida de su amor, Lenore. Sentado sobre él en un busto de la diosa Atenea, el pájaro repite las palabras \"nunca más\" a las consultas del hombre, volviéndolo loco.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "El Monstruo del Lago Ness",
+      "description": "Críptido legendario que supuestamente vive en un lago profundo de agua dulce en las Tierras Altas de Escocia. Los creyentes especulan que la criatura es un dinosaurio marino que de alguna manera sobrevivió hasta la época moderna. La comunidad científica lo considera un engaño.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Teddy Ruxpin",
+      "description": "Oso de peluche cuentacuentos de los 80s que tenía una casetera en su cuerpo. Historias como \"El Lanudo Qué-es-eso: ¡Aprender Puede ser Divertido!\" y \"Tweeg y los Saltadores: Tienes que Ganarte las Cosas que Valen la Pena\" se enfocaban en promover comportamiento positivo.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "La Llorona",
+      "description": "Fantasma de la leyenda mexicana que vaga por las noches llorando \"¡Ay, mis hijos!\". Se dice que ahogó a sus hijos y ahora los busca eternamente. Usada por madres para asustar niños y que no salgan de noche. Una de las leyendas más conocidas de Latinoamérica.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Tu Mamá",
+      "description": "La mujer que te dio a luz y/o te crió. La palabra de arriba o el nombre real de tu cuidador de la vida real son ambos válidos.",
+      "category": "ET CÉTERA",
+      "points": 2
+    }
+  ],
+  "range": {
+    "start": 41,
+    "end": 60,
+    "count": 20
+  }
+}

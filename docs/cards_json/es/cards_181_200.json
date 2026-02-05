@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "Madre Teresa",
+      "description": "Una misionera y ganadora del Premio Nobel de la Paz quien afirmó \"el mundo está siendo ayudado por el sufrimiento de la gente pobre\". Su Hogar para Moribundos Indigentes en Calcuta no ofrecía atención médica significativa y solo el 7% de las donaciones a su organización se usaban directamente para caridad.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "David Blaine",
+      "description": "Un mago callejero conocido por su prestidigitación, desafíos de resistencia tontos y ser algo patán. Sus actos incluyen ser enterrado por mucho tiempo, pararse en un poste por mucho tiempo, contener la respiración por mucho tiempo y asustar a Ricky Gervais al apuñalarse a sí mismo.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Lennie Small",
+      "description": "El amigo grande y con discapacidad mental de George en De Ratones y Hombres. Le encanta acariciar cosas suaves, pero es incapaz de controlar su fuerza, matando accidentalmente un cachorro y una mujer. George le dispara al final de la novela para protegerlo de una turba enfurecida.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Bill Clinton",
+      "description": "El 42º presidente de Estados Unidos y saxofonista tenor. Fue el segundo presidente en ser acusado en el cargo, debido a cargos relacionados con recibir sexo oral de una pasante de la Casa Blanca. El caso dependía famosamente \"de lo que significa la palabra 'es'\".",
+      "category": "FIGURA HISTÓRICA",
+      "points": 1
+    },
+    {
+      "name": "Flappy Bird",
+      "description": "El personaje alado principal de un juego de iOS donde navegas a través de un conjunto de tuberías. El creador eliminó el juego de la App Store, a pesar de ganar $50,000 por día, a raíz de las críticas sobre el supuesto plagio de gráficos y mecánicas de juego.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "El Übermensch",
+      "description": "Un concepto creado por Nietzsche en Así Habló Zaratustra que se traduce aproximadamente como \"Superhombre\". Un personaje en el libro lo sostiene como una meta suprema para que la humanidad logre. El término fue usado incorrectamente por el régimen Nazi para argumentar por una raza biológicamente superior.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "El Nota",
+      "description": "El apodo de Jeffrey Lebowski en la película de los hermanos Coen The Big Lebowski. Interpretado por Jeff Bridges, es representado como un vago desempleado, pacifista y jugador de boliche que bebe White Russians y escucha Creedence. Se basó en el miembro de Seattle Seven Jeff Dowd.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Una Mula de Coca",
+      "description": "Una persona que contrabandea drogas ilícitas a través de fronteras nacionales. Aunque los métodos varían, uno involucra tragar globos de látex llenos de la sustancia, que luego se recupera en sus heces. La detección de este método es difícil y a menudo solo se encuentra en rayos X.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "El Yo",
+      "description": "Una de las tres partes del modelo de la psique de Sigmund Freud que constituyen la vida mental. Juega una función ejecutiva, mediando entre el instinto crudo y la realidad externa, como tu capacidad de retrasar el placer inmediato por objetivos a largo plazo.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Una Chica Manic Pixie Dream",
+      "description": "Descrita por Nathan Rabin como una \"criatura burbujeante y superficial que existe únicamente en las imaginaciones de escritores-directores sensibles para enseñar a hombres jóvenes a abrazar la vida y sus infinitos misterios\". Ejemplos incluyen Natalie Portman en Garden State y Zooey Deschanel en todo.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Greg Louganis",
+      "description": "Un clavadista que golpeó su cabeza en el trampolín durante los Juegos Olímpicos de 1988. Más tarde se reveló que era VIH positivo en ese momento, aunque no había posibilidad de que otros atletas contrajeran la enfermedad del agua clorada. Mario López lo interpretó en una película biográfica de 1997.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Un Pez Globo",
+      "description": "Uno de los platos culinarios más infames y mortales. Conocido como Fugu en Japón, su preparación está estrictamente controlada, porque su hígado, ovarios y ojos contienen niveles fatales de tetrodotoxina. Estas áreas deben ser cuidadosamente removidas para evitar asfixia y muerte.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Ms. Pac-Man",
+      "description": "La heroína de un juego arcade de 1982, quien navega laberintos y come pastillas, pastillas de poder y frutas mientras evita fantasmas. Una de las primeras protagonistas femeninas de los videojuegos, la única diferencia visible entre ella y su contraparte masculina es un lazo rojo pixelado.",
+      "category": "CARTA DE NAT SIMS",
+      "points": 2
+    },
+    {
+      "name": "General Trasero Desnudo",
+      "description": "Un ex líder para el señor de la guerra liberiano Roosevelt Johnson. Afirmó que antes de la batalla \"nos emborrachábamos y drogábamos, sacrificábamos un adolescente, bebíamos la sangre, luego nos desnudábamos hasta los zapatos e íbamos a la batalla usando pelucas coloridas y llevando bolsos imaginarios\".",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Nyan Cat",
+      "description": "Un gato de caricatura con el cuerpo de una Pop-Tart. Se representa volando en el espacio con un rastro de arcoíris, acompañado de una canción alegre con la palabra japonesa para \"Miau\" como sus letras. Una variación popular tiene a usuarios sincronizando el video con la canción \"Psychosocial\" de Slipknot.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 3
+    },
+    {
+      "name": "El Sombrero de Pharrell",
+      "description": "El infame cubrimiento de cabeza del rapero, productor e invitado en \"Blurred Lines\". Creado para la colección 1982-1983 de Vivienne Westwood, fue inspirado por \"mujeres peruanas usando sombreros de bombín, faldas completas, bailando con sus bebés atados en su espalda\".",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Un Santa de Centro Comercial",
+      "description": "En las semanas previas a la Navidad, los complejos comerciales a menudo emplean a esta persona para interpretar una figura gorda, alegre y que da regalos. Usualmente se instala una \"gruta\" donde los niños pueden posar para fotografías mientras se sientan en su regazo y piden regalos.",
+      "category": "CARTA DE MATT RIX",
+      "points": 3
+    },
+    {
+      "name": "Gregor Samsa",
+      "description": "Un personaje de la novela corta La Metamorfosis de Franz Kafka, quien un día despierta para encontrarse transformado en un gran insecto. Lentamente pierde su capacidad de comunicarse, se convierte en una carga para su familia y eventualmente se deja morir de alguna manera.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 4
+    },
+    {
+      "name": "Un Fagotista",
+      "description": "Una persona que toca un instrumento de viento de madera grande de doble lengüeta. A pesar de su tono cálido y oscuro, a menudo se considera uno de los instrumentos más oscuros de la orquesta moderna. Entre sus pasajes más famosos está el Tema del Abuelo en Pedro y el Lobo de Sergei Prokofiev.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Hombre Grizzly (Timothy Treadwell)",
+      "description": "El sujeto excéntrico de un documental de Werner Herzog, quien vivió con osos de Alaska durante 13 veranos y estaba \"enamorado de [sus] amigos animales\". En 2003, él y su novia fueron asesinados y comidos por uno de los osos—la primera muerte de este tipo en la historia del parque.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    }
+  ],
+  "range": {
+    "start": 181,
+    "end": 200,
+    "count": 20
+  }
+}

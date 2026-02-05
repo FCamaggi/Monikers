@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "El Chef Sueco",
+      "description": "Un cocinero Muppet que viene del norte de Europa. Usa un gorro de chef blanco y habla con galimatías melodioso. Los humanos de su país de origen a menudo encuentran el personaje ofensivo y afirman que su acento suena totalmente más como noruego de todos modos.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "El Ojo de Sauron",
+      "description": "Una manifestación del personaje titular en la serie de fantasía de J.R.R. Tolkien El Señor de los Anillos. Frodo lo describe como \"bordeado de fuego, pero era en sí mismo vitreo, amarillo como el de un gato, vigilante e intento, y la hendidura negra de su pupila se abría a un pozo, una ventana a la nada\".",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "El Niño Burbuja",
+      "description": "Una persona con una enfermedad genética que los deja vulnerables a infecciones y forzados a vivir en un ambiente completamente estéril. Uno fue famosamente retratado en Seinfeld, donde peleó con George por una carta de Trivial Pursuit que decía \"Moops\" en lugar de \"Moors\".",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 3
+    },
+    {
+      "name": "Bloody Mary",
+      "description": "Un fantasma legendario que se dice es conjurado en un espejo diciendo su nombre múltiples veces. A menudo intentado por niñas jóvenes, se dice que el fantasma a veces revela el futuro y otras veces intenta sacarle los ojos a la persona.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Coronel Sanders",
+      "description": "El fundador de Kentucky Fried Chicken, cuya imagen también se usa en su logo. Se identifica fácilmente por su cabello blanco, barba de chivo, lentes con marco negro, traje blanco y corbata de cordón. Su título honorífico se refiere a una tradición de Kentucky en lugar de un rango militar.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 1
+    },
+    {
+      "name": "O.J. Simpson",
+      "description": "Ex jugador profesional de fútbol americano, actor y portavoz de Isotoner. Fue declarado no culpable de asesinato en uno de los juicios más públicos del siglo XX. Escribió un libro sobre el caso llamado \"Si lo hubiera hecho\" y está actualmente encarcelado por robo de su propia memorabilia deportiva.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 1
+    },
+    {
+      "name": "El Chavo del 8",
+      "description": "Niño huérfano que vive en un barril en la vecindad. Siempre tiene hambre (especialmente de tortas de jamón). Usa gorra, pantalones cortos y pecas. Frases: \"Eso, eso, eso!\", \"Fue sin querer queriendo\", \"Pió, pió, pió\". Personaje más icónico de Latinoamérica.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 1
+    },
+    {
+      "name": "Un Leproso",
+      "description": "Una persona infectada con la Enfermedad de Hansen, que a veces resulta en la incapacidad de sentir dolor y consecuente pérdida de partes del cuerpo. Para prevenir la propagación de la enfermedad, fueron históricamente separados en colonias aisladas - práctica aún viva en India y China.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "¡Khan!",
+      "description": "Un villano de la franquicia Star Trek, que una vez controló una porción de la tierra durante las Guerras Eugenésicas de los 90s. Ricardo Montalbán interpretó al superhumano genéticamente modificado, entregando líneas como \"La venganza es un plato que se sirve mejor frío\".",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Pancho Villa",
+      "description": "Revolucionario mexicano de la Revolución Mexicana. Famoso por su bigote espeso y sombrero. General de la División del Norte. Aparece en billetes y es considerado héroe nacional. Protagonizó películas de Hollywood sobre sí mismo mientras hacía la revolución.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Goku",
+      "description": "Protagonista de Dragon Ball, anime japonés ultra popular en Latinoamérica. Guerrero Saiyajin con cabello espinoso negro (o rubio al transformarse). Grita al atacar, se transforma en \"Super Saiyajin\" y siempre quiere pelear contra los más fuertes. \"Kamehameha!\".",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Un Hipopótamo Hambriento",
+      "description": "El personaje titular de un juego infantil que enseña a los niños a comer canicas. Cada uno de los cuatro jugadores simultáneamente golpea una palanca de plástico para hacer que su personaje - una versión colorida del tercer mamífero terrestre más grande - consuma tantos de estos objetos incomestibles como sea posible.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "La Chilindrina",
+      "description": "Personaje del \"Chavo del 8\", interpretada por María Antonieta de las Nieves. Niña pecosa con coletas coloradas y dientes de conejo. Hija de Don Ramón. Siempre defendiendo a su papá y peleando con Quico. \"Miren cómo tiemblo!\".",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Jesucristo",
+      "description": "Un rabino judío subversivo, que los cristianos creen que es el Hijo de Dios y Mesías del Antiguo Testamento. Supuestamente realizó milagros, fue crucificado por los romanos y resucitó de entre los muertos. Una inicial intermedia se usa en varios juramentos, pero su origen no está claro.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 1
+    },
+    {
+      "name": "El Kraken",
+      "description": "Un monstruo marino mítico gigantesco que apareció por primera vez en la mitología nórdica. Debido a su tamaño, se pensó que fue inspirado por avistamientos de calamares gigantes. En medios contemporáneos, a menudo se ve siendo \"liberado\" o \"desatado\" sobre un héroe desprevenido.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Un Agente de la TSA",
+      "description": "Un empleado de una rama del Departamento de Seguridad Nacional de EE.UU. Muchos de sus empleados están apostados en aeropuertos para revisar pasajeros y su propiedad, incluyendo cacheos y visualización de rayos X. Su salario promedio es $25K-$38K por año, excluyendo botín.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Un Cylon",
+      "description": "Un miembro de una civilización robótica en la franquicia Battlestar Galactica. Fueron creados algo por accidente en Caprica y son únicos en que experimentan muchas emociones humanas comunes y a menudo no son completamente conscientes de su estatus como forma de vida robótica.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Splinter",
+      "description": "Una rata humanoide anciana que fue el sensei de las Tortugas Ninja. En la serie de dibujos animados de los 80s, fue mutado del gran guerrero samurai Hamato Yoshi. En otras versiones, sin embargo, este personaje era el roedor mascota de Hamato Yoshi.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Babar",
+      "description": "Un elefante del libro infantil de Jean de Brunhoff que, según críticos, ofrece una justificación para el colonialismo. En el libro, deja la jungla, visita una ciudad, regresa con traje verde, introduce la civilización francesa a sus compañeros elefantes y es coronado rey.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "El Pibe Valderrama",
+      "description": "Carlos Valderrama, futbolista colombiano con icónico pelo afro rubio gigante. Considerado uno de los mejores mediocampistas sudamericanos. Jugó en 3 Mundiales con Colombia. Su peinado era tan reconocible que se veía desde el espacio.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    }
+  ],
+  "range": {
+    "start": 61,
+    "end": 80,
+    "count": 20
+  }
+}

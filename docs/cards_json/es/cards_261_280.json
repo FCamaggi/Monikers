@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "Fabio",
+      "description": "Un modelo italiano de cabello largo que posó para incontables portadas de novelas románticas. Entró en el reino de la autoparodia como vocero de I Can't Believe It's Not Butter. También lanzó un álbum de soliloquios sobre el amor y mató una gaviota con su cara mientras montaba una montaña rusa.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "David Caruso",
+      "description": "Un actor mejor conocido como el Teniente Horatio Caine en la serie de CBS CSI: Miami. Al comienzo de cada show, entrega una frase ingeniosa de una línea mientras simultáneamente se pone sus gafas de sol características antes de que el show corte a su canción tema, \"Won't Get Fooled Again\".",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Jack Kevorkian",
+      "description": "Un doctor y activista de la eutanasia que fue apodado \"Dr. Muerte\" durante su juicio por asesinato en segundo grado de pacientes terminalmente enfermos que buscaron su asistencia. También era un flautista y compositor de jazz, y lanzó el álbum A Very Still Life en el sello Lucid Subjazz en 1997.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Deepak Chopra",
+      "description": "Un maestro de medicina alternativa y Meditación Trascendental, quien mezcla una vaga comprensión de la física con prácticas new age más estándar. Podría decirse que es el gurú más famoso del mundo, ha sido referido como \"el David Beckham del crecimiento personal/espiritual\".",
+      "category": "CELEBRIDAD",
+      "points": 4
+    },
+    {
+      "name": "Joey Chestnut",
+      "description": "Un comedor competitivo mejor conocido por destronar a Kobayashi como el mejor comedor de hot dogs del mundo usando las propias estrategias de Kobayashi en su contra. A partir de 2014, tiene el récord mundial de comer 69 hot dogs y panes (HDB). También tiene un récord similar para espárragos fritos.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Gato Gruñón",
+      "description": "El nombre de internet para Tardar Sauce, una felina que ganó celebridad debido a su expresión permanentemente negativa. Su dueño atribuye su apariencia al enanismo felino así como a una mordida inferior. En 2013, apareció en las portadas de The Wall Street Journal y NY Magazine.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Jiro",
+      "description": "Un maestro de sushi japonés y sujeto de un documental de 2011 que lleva su nombre. Su barra de 10 asientos es uno de los restaurantes más difíciles del mundo para obtener reservación, a pesar de que el menú de degustación de 20 platos cuesta ¥30,000 (casi $300) y está ubicado en una estación de metro de Tokio.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "8 Doncellas Ordeñando",
+      "description": "Un octeto que aparece en la canción \"Los Doce Días de Navidad\", un villancico navideño inglés que lista una serie de regalos dados por \"mi verdadero amor\" en cada uno de esos días. Estos individuos, que tienden vacas lecheras, son presentados por primera vez en el octavo día de Navidad.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Alex Trebek con Bigote",
+      "description": "El presentador del programa de preguntas Jeopardy! por treinta años y contando. Ha aparecido en forma autodepreciativa como una versión de sí mismo en películas y programas de TV, incluyendo Seinfeld y Short Cuts. Para propósitos de esta carta, todavía tiene un vello facial realmente genial en su labio superior.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Alex Trebek sin Bigote",
+      "description": "El presentador del programa de preguntas Jeopardy! por treinta años y contando. Comenzó a presentar programas de juegos en la secundaria. Para propósitos de esta carta, se afeitó el icónico vello facial de su labio superior en 2001. En 2008 usó vello facial falso en su labio superior para el Día de los Inocentes.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Una Virgen",
+      "description": "Una persona que nunca ha participado en relaciones sexuales, ya sea voluntaria o involuntariamente. Una vez usado solo para referirse a mujeres jóvenes, ahora describe a cualquier persona que no ha participado en esa actividad e incluso puede ser usado metafóricamente, como en una bebida sin alcohol.",
+      "category": "ET CÉTERA",
+      "points": 1
+    },
+    {
+      "name": "Cocodrilo Dundee",
+      "description": "El personaje principal en una trilogía de películas de pez fuera del agua sobre un hombre de la selva australiano luchando por encontrar su camino en la gran ciudad estadounidense. Interpretado por Paul Hogan, famosamente amenaza a asaltantes, diciendo \"Eso no es un cuchillo. [saca su cuchillo bowie] Eso es un cuchillo\".",
+      "category": "PERSONAJE FICTICIO",
+      "points": 1
+    },
+    {
+      "name": "El Hombre Kool-Aid",
+      "description": "La mascota de 6 pies de alto con sabor a cereza para una mezcla de bebida en polvo que se combina con agua y azúcar. Es famoso por hacer una entrada dramática cuando los niños expresan sed rompiendo a través de una pared de ladrillos y gritando su eslogan \"¡Oh sí!\"",
+      "category": "PERSONAJE FICTICIO",
+      "points": 1
+    },
+    {
+      "name": "Andrea Yates",
+      "description": "La víctima de depresión posparto severa quien ahogó a sus cinco hijos en una bañera. Aunque inicialmente fue sentenciada a cadena perpetua, más tarde fue declarada no culpable por razón de locura. Su caso generó un debate continuo sobre el tratamiento de salud mental en Estados Unidos.",
+      "category": "CELEBRIDAD",
+      "points": 4
+    },
+    {
+      "name": "John Wayne Bobbitt",
+      "description": "Un esposo abusivo cuya esposa le cortó el pene. Hizo todo lo posible para lucrar del incidente, protagonizando varias películas porno centradas en su miembro reattachado y comenzando una banda llamada The Severed Parts. Continuó abusando de mujeres en relaciones subsecuentes.",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Ryan Gosling Feminista",
+      "description": "Un meme del actor que interpretó a Noah en The Notebook y pisoteó la cabeza de un hombre hasta que explotó en Drive, mostrándolo en pensamiento profundo con subtítulos de \"Hey girl\", seguido de frases empoderadoras pero seductoras como \"Estuve con Wendy Davis, pero me acostaría en cualquier lugar contigo\".",
+      "category": "CELEBRIDAD",
+      "points": 3
+    },
+    {
+      "name": "Un Reptiliano",
+      "description": "Un humanoide común en teorías de conspiración sobre una raza de personas lagarto que cambian de forma y controlan gobiernos alrededor del mundo. En un programa de radio de 2011, Louis C.K. una vez preguntó repetidamente al ex Secretario de Defensa de Estados Unidos Donald Rumsfeld si era uno de estos.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 4
+    },
+    {
+      "name": "Wilford Brimley",
+      "description": "Un actor conocido por su bigote blanco parecido a una morsa y su pronunciación de la palabra \"Diabetes\". Interpretó a un viejo cascarrabias en Cocoon y varias otras películas en los 80s. También fue vocero para una variedad de productos para ancianos, como Quaker Oats y suministros para Diabeetus.",
+      "category": "CELEBRIDAD",
+      "points": 4
+    },
+    {
+      "name": "Un Jefe (Boss)",
+      "description": "Una frase de internet que señala a una persona siendo como uno de estos, normalmente usada después de completar una actividad con habilidad particular. El término se originó en una canción de Slim Thug y fue presentado en una versión parodia subsecuente del grupo de comedia The Lonely Island.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "El Tipo Negro de El Resplandor (Scatman Crothers)",
+      "description": "Un actor famoso por su rol en Chico and the Man así como en la película de terror de 1980 de Stanley Kubrick, donde interpreta al chef telepático y conocedor de arte erótico Dick Hallorann. Tarde en la película, es asesinado por un golpe de hacha en el pecho por el escritor psicópata Jack Torrance.",
+      "category": "CELEBRIDAD",
+      "points": 4
+    }
+  ],
+  "range": {
+    "start": 261,
+    "end": 280,
+    "count": 20
+  }
+}

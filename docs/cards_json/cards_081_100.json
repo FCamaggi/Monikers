@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "Chun-Li",
+      "description": "A character from the Street Fighter video game series, who relies primarily on powerful kicks delivered with the aid of her remarkably muscular thighs. Her most famous move is the Lightning Kick, with the Spinning Bird Kick a close second. Her blood type is A.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "The T-1000",
+      "description": "A shapeshifting robot from Terminator 2. Made of liquid metal, Skynet sent it into the past to kill Edward Furlong, who was protected by Arnold Schwarzenegger's loveable, technologically inferior, T-800. Billy idol was slated to play the character before a motorcycle accident.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Cthulhu",
+      "description": "A monstrous deity created by H.P. Lovecraft. It is hundreds of meters tall and has the arms and legs of a man, claws, the head of a giant octopus, and bat wings. Its mythos gained increased popularity from a series of allusions to it in the HBO series True Detective.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "A Muggle",
+      "description": "Any non-magical character in the Harry Potter franchise. Their inability to perform magic was likely a hereditary trait and was used as a justification for persecution by an extremist group of magical persons, Death Eaters, who believed their own bloodlines should remain pure.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "A Fainting Goat",
+      "description": "A farm animal that suffers from a genetic disorder that causes its muscles to freeze for approximately 10 seconds when panicked. The condition is formally known as myotonia congenita, which Buzzfeed once described as \"easily the cutest neurological disorder.\"",
+      "category": "ET CETERA",
+      "points": 3
+    },
+    {
+      "name": "Count Chocula",
+      "description": "A vampire mascot from the General Mills Corporation's series of monster-based breakfast cereals. Like his colleagues Franken-Berry, Boo-Berry, Fruit Brute, and Yummy Mummy, his origin is a mystery. His tagline, \"I want to eat your cereal!\" seems a little on the nose.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Burning Man",
+      "description": "A 40-foot wooden effigy that is set on fire during a weeklong event in Nevada's Black Rock Desert. The organizers deny that it has any connection to similar wicker effigies that were built by ancient Druids for pagan Celtic rituals that some speculate involved human sacrifice.",
+      "category": "ET CETERA",
+      "points": 2
+    },
+    {
+      "name": "A Furby",
+      "description": "A fuzzy interactive toy that became popular in the late 90s. Vaguely resembling an owl, it speaks a unique language, learning English over time through interacting with its owner. When held upside down it says things like \"me scared\" and begins crying.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Paul Reubens",
+      "description": "An actor famous for his character Pee-wee Herman. He was arrested for masturbating in a Sarasota, FL adult theater in 1991. When confronted by police, he allegedly said \"I'm Pee-wee Herman\" and suggested doing a local children's benefit \"to take care of this.\"",
+      "category": "CELEBRITY",
+      "points": 2
+    },
+    {
+      "name": "A Sherpa",
+      "description": "A member of a Nepalese ethnic group that resides in the Himalayan mountain range. The term often refers to guides who assist climbers. Among the most famous of these in history was Tenzing Norgay, who reached the summit of Mount Everest with Edmund Hillary in 1953.",
+      "category": "ET CETERA",
+      "points": 2
+    },
+    {
+      "name": "El Niño",
+      "description": "A band of warm weather resulting in above-average temperatures for most of North America and wetter seasons for most of South America. This weather system inspired a Chris Farley SNL character that depicted the tropical storm as a boastful professional wrestler.",
+      "category": "ET CETERA",
+      "points": 2
+    },
+    {
+      "name": "Ceiling Cat",
+      "description": "The subject of a famous internet photo showing a feline peeking out of a hole and, allegedly, \"watching you masturbate.\" In 2010, a Reddit indicated that the hole was actually in a wall, claiming \"This changes everything.\" The feline is said to have a rival in the basement.",
+      "category": "CELEBRITY",
+      "points": 3
+    },
+    {
+      "name": "The Yellow Power Ranger",
+      "description": "A hero from the 90s children's show that featured a team of teenagers that fought off aliens by transforming into superheroes and piloting robots called Zords. The show was often accused of racism for aligning each character's uniform color with the actor's ethnicity.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "The one-armed drummer from Def Leppard",
+      "description": "The percussionist for the popular 80s hair metal band known for hits like \"Love Bites\" and \"Pour Some Sugar on Me.\" He is best known for continuing to record and perform using a specially designed kit following the amputation of a limb after a drag racing accident.",
+      "category": "CELEBRITY",
+      "points": 4
+    },
+    {
+      "name": "The Shark from Jaws",
+      "description": "A man-eating great white that terrorizes the town of Amity Island in a film by Steven Spielberg. Not seen until well into the film, it is so large that Roy Scheider's character suggests the crew is \"gonna need a bigGER boat.\" It was nicknamed Bruce after Spielberg's lawyer. FICTIONAL CHARACTER 1 POINT A T. Rex Meaning \"lizard king,\" this species of bipedal carnivore lived in western North America during the Cretaceous Period. They are the most widely known dinosaur in the world due to their adorably tiny arms and footsteps that vibrate cups of water. ET CETERA 1 POINT Colonel Mustard A character from the board game Clue (aka Cluedo). He was originally named Yellow, but had his name changed to this condiment instead. In Hasbro's latest update, he is now a former football player. In the classic film adaptation, he was played by Martin Mull.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 1
+    },
+    {
+      "name": "A Rat King",
+      "description": "A creature comprised of multiple rodents knotted at the tail. While specimens exist in museums of curiosities, it is unlikely to ever have existed. It is also the name of a character from the Teenage Mutant Ninja Turtles franchise who exerts a telepathic influence over rodents.",
+      "category": "ET CETERA",
+      "points": 3
+    },
+    {
+      "name": "Icarus",
+      "description": "An mythical figure in Ancient Greece, who along with his father Daedalus, escape from the Labyrinth with wax wings. He is warned not to fly too high or too low. Ignoring the warning, the sun melts the wax and he plummets into the sea.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "A Child Soldier",
+      "description": "A term for a young person involved in armed conflicts, either voluntarily or involuntarily. International conventions exist to limit this activity, yet it remains a widespread practice, with 200,000 to 300,000 young people currently serving in either rebel and government forces.",
+      "category": "ET CETERA",
+      "points": 3
+    },
+    {
+      "name": "An Unstoppable Force",
+      "description": "One half of a famous paradox that asks what would happen if a thing that cannot be stopped encounters a thing that cannot be moved.",
+      "category": "ET CETERA",
+      "points": 3
+    },
+    {
+      "name": "Kate Bush",
+      "description": "An English musician known for her idiosyncratic vocal delivery, literary sensibility, hit singles such as \"Wuthering Heights\" and \"Baboosh-ka.\" One of her Karate instructors has noted that many of her dance moves owe a debt to her martial arts training.",
+      "category": "CELEBRITY",
+      "points": 3
+    }
+  ],
+  "range": {
+    "start": 81,
+    "end": 100,
+    "count": 20
+  }
+}

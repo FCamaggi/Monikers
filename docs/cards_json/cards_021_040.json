@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "Georgia O'Keeffe",
+      "description": "An American modernist painter whose work was inspired by the New Mexico landscape surrounding her home. She is perhaps most famous for the uncanny resem- blance of many of her painted flowers to female genitalia, though she denied any similarity.",
+      "category": "HISTORICAL FIGURE",
+      "points": 2
+    },
+    {
+      "name": "Ebola",
+      "description": "A virus that causes hemorrhagic fever, typically acquired by contact with an infected monkey, fruit bat, or person. Its most severe symptoms can include bleeding from the eyes, nose, ears, mouth, and rectum. There is no specific treatment for the disease.",
+      "category": "ET CETERA",
+      "points": 2
+    },
+    {
+      "name": "A Furry",
+      "description": "A person who wears a full body animal suit, often for conventions, roleplaying, or personal recreation. Their use in sexual activity is a controversial topic in the community. In a recent survey, 37% reported that it was an important part of their interest in the activity.",
+      "category": "ET CETERA",
+      "points": 3
+    },
+    {
+      "name": "Gallagher",
+      "description": "A prop comic famous for smashing watermelons with his trademark Sledge-O-Matic. He once sued his brother for touring under the comedian's name and walked out of a Marc Maron interview when asked about the use of racist, homopho- bic, and xenophobic slurs in his act.",
+      "category": "CELEBRITY",
+      "points": 1
+    },
+    {
+      "name": "Kobayashi",
+      "description": "A Japanese competitive eater who shocked the world in 2001 by eating 50 hot dogs and buns (HDB) in 12 minutes at Nathan's Hot Dog Eating Contest, doubling the previous record. He once lost a hot dog eating contest (no buns) to a 1089 lb. Kodaik bear (31-50).",
+      "category": "CELEBRITY",
+      "points": 2
+    },
+    {
+      "name": "Pablo Escobar",
+      "description": "A Colombian drug lord and \"King of Cocaine,\" who at his peak trafficked 15 tons of the drug into the US per year. He was killed by authorities in a firefight in Medellin. According to a recent BBC report, a number of hippos from his menagerie still roam the Colombian countryside.",
+      "category": "HISTORICAL FIGURE",
+      "points": 3
+    },
+    {
+      "name": "El Chupacabra",
+      "description": "Literally \"goat sucker,\" this legendary American cryptid is often described as a reptile-like creature that attacks and drinks the blood of sheep and other livestock. Most supposed sightings have been attributed to dogs or wolves afflicted by the skin disease mange.",
+      "category": "ET CETERA",
+      "points": 4
+    },
+    {
+      "name": "Bill Cosby",
+      "description": "One of most famous comedians of all time. He created Fat Albert and played Cliff Huxtable on the show bearing his name. He is known for wearing sweaters, eating \"Puddin' Pops,\" and blaming much of the black incarceration rate on poor parenting.",
+      "category": "CELEBRITY",
+      "points": 1
+    },
+    {
+      "name": "Bob Fosse",
+      "description": "A dancer and choreographer, who created musicals like All That Jazz and Cabaret. His style included turned-in knees, bowler hats, canes, and copious use of jazz hands-a technique where the performer's hands are shown palms open to the audience with fingers splayed wide.",
+      "category": "HISTORICAL FIGURE",
+      "points": 3
+    },
+    {
+      "name": "Heisenberg",
+      "description": "A German theoretical physicist, creator of the uncertainty principle, and winner of a Nobel Prize in Physics for his development of quantum mechanics. His name was also used as an alias for the meth manufacturer Walter White in the series Breaking Bad.",
+      "category": "HISTORICAL FIGURE",
+      "points": 2
+    },
+    {
+      "name": "Rosie the Riveter",
+      "description": "A World War II icon, who represented American women working factory jobs. She is most often associated with the \"We Can Do It!\" Westinghouse poster, depicting her flexing in a blue work shirt and red kerchief. Her Canadian precursor was Ronnie the Bren Gun Girl.",
+      "category": "HISTORICAL FIGURE",
+      "points": 2
+    },
+    {
+      "name": "Shirtless Vladimir Putin",
+      "description": "Former KGB officer and current President of Russia. Under his rule, Russia has grown increasingly democratic. He cultivates a rugged image in state media, being shown riding half-dressed on horseback and “discovering” two Ancient Greek urns in the Black Sea.",
+      "category": "CELEBRITY",
+      "points": 3
+    },
+    {
+      "name": "Christopher Walken",
+      "description": "An actor known for his odd line readings, dancing skills, and creepy handsome face. Despite being an Academy Award winning actor, he is perhaps best known for the “Weapon of Choice” music video and as Bruce Dickinson, an SNL character who asks for more cowbell.",
+      "category": "CELEBRITY",
+      "points": 2
+    },
+    {
+      "name": "Baby Jessica",
+      "description": "The subject of a 24-hour media frenzy in 1987 when she fell down a well, setting a precedent for how cable news networks cover small local tragedies. At the time, President Reagan claimed that “everybody in America became [her] godmothers and godfathers.”",
+      "category": "CELEBRITY",
+      "points": 4
+    },
+    {
+      "name": "Jackson Pollock",
+      "description": "An abstract expressionist painter known for his drip paintings, which were created by laying the canvas on the floor and pouring paint from above. His painting, “No. 5, 1948,” was sold for $140M in 2006 by David Geffen—the second most expensive painting ever sold.",
+      "category": "HISTORICAL FIGURE",
+      "points": 2
+    },
+    {
+      "name": "Caligula",
+      "description": "A Roman emperor known for his cruelty, extravagance, and sexual perversity. He was the first Roman emperor to be assassinated. He is best known for being the title character of a semi-pornographic film starring Malcolm McDowell that depicted his orgies in lengthy detail.",
+      "category": "HISTORICAL FIGURE",
+      "points": 2
+    },
+    {
+      "name": "Julian Assange",
+      "description": "The Editor-in-chief of WikILeaks and alleged sexual predator. Fearing extradition to Sweden for sexual assault and the US for espionage relating to the Chelsea Manning leaks, he has been living in the Ecuadorian embassy in London since June 2012.",
+      "category": "HISTORICAL FIGURE",
+      "points": 2
+    },
+    {
+      "name": "The Pied Piper",
+      "description": "A character in medieval folklore that led a group of children away from the town of Hamelin, Germany with a magic flute. In the tale, he was hired to clear the town of a rat infestation, but after receiving no payment, he used the flute to kidnap their children instead.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Atlas",
+      "description": "A titan from Greek mythology, who was forced to hold up the celestial spheres as punishment for fighting the Olympian gods in the War of the Titans. He is often shown holding a sphere on his shoulders, which is now commonly mistaken to be the Earth.",
+      "category": "FICTIONAL CHARACTER",
+      "points": 2
+    },
+    {
+      "name": "Pavlov's Dog",
+      "description": "A canine from a Russian physiologist's classical conditioning experiments. By ringing a bell associated with food, he could induce the animal to salute even with no food present. He extended these experiments to children, who underwent surgeries so he could better collect their saliva.",
+      "category": "HISTORICAL FIGURE",
+      "points": 3
+    }
+  ],
+  "range": {
+    "start": 21,
+    "end": 40,
+    "count": 20
+  }
+}

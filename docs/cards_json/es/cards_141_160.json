@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "El Aprendiz de Brujo",
+      "description": "El asistente de un mago en Fantasía de Disney. Interpretado por Mickey Mouse, hechiza una escoba para que traiga agua. Incapaz de controlar la magia, se produce una inundación. Cada vez que intenta destruir la escoba y terminar el hechizo, se divide por la mitad y continúa su trabajo al doble de velocidad.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Honey Boo Boo",
+      "description": "Una concursante de certámenes de belleza infantil y estrella de un reality de TLC. Es conocida por su acento sureño, su amor por el \"Go Go Juice\" (una mezcla de Mountain Dew y Red Bull), y su actitud de mente abierta, habiendo dicho una vez de su tío: \"No hay nada malo en ser un poquito gay\".",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Koko",
+      "description": "Una gorila a la que su entrenadora le enseñó a hacer señas de más de 1,000 palabras en GSL (Lenguaje de Señas para Gorilas) y supuestamente podía entender 2,000 palabras en inglés. Eligió una pareja de una serie de videocasetes en una forma temprana de citas en línea, aunque aún no se han apareado.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "El Gorila de 400 Kilos",
+      "description": "Un modismo que describe un primate tan poderoso y pesado que puede ignorar los derechos de los demás. La fuente original es un acertijo que pregunta dónde se sienta (R: Donde quiera). Este término comúnmente se confunde con una expresión similar sobre un elefante.",
+      "category": "ET CÉTERA",
+      "points": 4
+    },
+    {
+      "name": "Charizard",
+      "description": "Una especie de Pokémon que se asemeja a un dragón naranja y es la forma evolucionada de Charmeleon y la evolución final de Charmander. A pesar de su apariencia, es de tipo fuego/volador, NO de tipo dragón. Su nombre japonés es Lizardon (リザードン).",
+      "category": "PERSONAJE FICTICIO",
+      "points": 4
+    },
+    {
+      "name": "Portnoy",
+      "description": "El personaje titular de una novela de 1969 de Philip Roth que se narra como una sesión extendida de psicoterapia por un joven soltero judío. La novela es notoria por su descripción de este personaje masturbándose con un trozo de hígado crudo, que su madre luego sirve para la cena.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 4
+    },
+    {
+      "name": "El Niño que Gritó Lobo",
+      "description": "Un pastor de las Fábulas de Esopo que engañó a los aldeanos al dar falsas alarmas sobre sus ovejas siendo atacadas. Cuando ocurre una amenaza legítima, los aldeanos no responden y el rebaño es devorado. La fábula parece tener poco efecto en la probabilidad de mentir entre los niños.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 4
+    },
+    {
+      "name": "Roland el Pedorrero, Flatulista del Rey",
+      "description": "Un bufón de la corte del siglo XII para Enrique II. A cambio de sus servicios (\"estaba obligado a realizar cada año en el cumpleaños de nuestro Señor ante su amo, un salto, un silbido y un pedo\"), recibió una mansión y 30 acres de tierra en el condado de Suffolk.",
+      "category": "CARTA DE MAX TEMKIN",
+      "points": 4
+    },
+    {
+      "name": "Nicholas Georgiton",
+      "description": "¿Héroe o villano? ¿Abogado o presbiteriano? Todo lo que sabemos con certeza es que tiene acceso a internet y $300 de dinero disponible.",
+      "category": "CARTA DE NICHOLAS GEORGITON",
+      "points": 4
+    },
+    {
+      "name": "Un Recreador de la Guerra Civil",
+      "description": "Un \"historiador viviente\" que pasa su tiempo libre interpretando a un soldado confederado o de la Unión en la guerra más sangrienta de Estados Unidos. Un participante típicamente cae en una de tres clases, de menos a más auténtico (e insoportable): farb, mainstream y progresivo.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 4
+    },
+    {
+      "name": "Mia Hamm",
+      "description": "Una jugadora profesional de fútbol retirada que ayudó a liderar al equipo de Estados Unidos a su victoria en la Copa Mundial de 1999. La foto icónica de ella en un sostén deportivo deslizándose de rodillas, gritando con los puños apretados en celebración, en realidad es de su compañera Brandi Chastain.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Dra. Quinn, Mujer Médico",
+      "description": "El personaje principal de un programa de TV de los 90s sobre una aristócrata del siglo XIX que establece una clínica en Colorado Springs. Interpretada por Jane Seymour, introduce prácticas de curación modernas a los lugareños del pueblo así como a su rudo hombre de montaña Byron Sully.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Capitán Ahab",
+      "description": "El comandante monomaníaco de pierna de palo del barco ballenero Pequod en la novela Moby Dick de Herman Melville. Su búsqueda de venganza contra la ballena blanca lo vuelve loco, llevando a la muerte de toda su tripulación excepto Ismael, el narrador de la novela.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "La Mejor Amiga de Oprah (Gayle)",
+      "description": "La co-presentadora de CBS This Morning y Editora en Grande de O Magazine. Ganó notoriedad por su relación de larga duración con una famosa presentadora de talk show y \"Reina de Todos los Medios\". A pesar de estar casada con un hombre, hay rumores persistentes de que las dos son amantes.",
+      "category": "CELEBRIDAD",
+      "points": 4
+    },
+    {
+      "name": "Skeletor",
+      "description": "El villano principal en el mundo de fantasía de Masters of the Universe. Es el archienemigo de He-Man y típicamente se muestra con un cuerpo humanoide azul, cráneo desnudo y capucha morada. Su objetivo es aprender los secretos del Castillo Grayskull y usarlos para conquistar la tierra de Eternia.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Star Wars Kid",
+      "description": "La estrella de un video viral que muestra a un estudiante de secundaria imitando movimientos de sable de luz usando un recuperador de pelotas de golf. La cinta se filtró en línea después de ser dejada en el sótano de su escuela, lo que llevó a docenas de remixes con música y efectos especiales avanzados.",
+      "category": "CARTA DE ANDY BAIO",
+      "points": 3
+    },
+    {
+      "name": "Un Tritón",
+      "description": "La versión masculina de la criatura mitológica que es una mujer de la cintura para arriba pero tiene cola de pez en lugar de piernas. Sus comportamientos y habilidades varían entre culturas, e incluyen tener dientes verdes, la capacidad de curar enfermedades, seducir mujeres y sostener tridentes.",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    },
+    {
+      "name": "Moctezuma",
+      "description": "El noveno tlatoani de Tenochtitlán y gobernante de la Triple Alianza Azteca. Durante su primer contacto con europeos, fue asesinado por los hombres del conquistador Hernán Cortés mientras huían de su capital. Su \"venganza\" es un eufemismo para contraer diarrea del viajero en México.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Una Damisela en Apuros",
+      "description": "Un arquetipo sexista en literatura, cine y juegos de una mujer indefensa que debe ser salvada por un personaje masculino, como la Princesa Peach en la franquicia Mario. Una serie reciente de YouTube por Feminist Frequency trazó este recurso narrativo a través de la historia de los videojuegos.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Clippy",
+      "description": "El apodo del Asistente de Office en Microsoft Office, quien aparece como el objeto metálico usado para sostener hojas de papel juntas. Él \"golpearía\" el monitor para llamar tu atención. Supuestamente, el nombre interno de Microsoft para él era TFC (The Fucking Clown).",
+      "category": "PERSONAJE FICTICIO",
+      "points": 2
+    }
+  ],
+  "range": {
+    "start": 141,
+    "end": 160,
+    "count": 20
+  }
+}

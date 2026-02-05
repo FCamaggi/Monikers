@@ -1,0 +1,129 @@
+{
+  "cards": [
+    {
+      "name": "Diego Maradona",
+      "description": "Futbolista argentino considerado uno de los mejores de la historia. Famoso por 'La Mano de Dios' en el Mundial México 86 contra Inglaterra. También marcó el 'Gol del Siglo' en el mismo partido. Ídolo en Argentina y Nápoles. Personalidad controversial y carismática.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 1
+    },
+    {
+      "name": "Shakira",
+      "description": "Cantante colombiana conocida mundialmente. Famosa por mover las caderas y su voz distintiva. Canciones como 'Hips Don't Lie', 'Waka Waka' y 'Whenever, Wherever'. En pareja con Piqué durante años. Referencia al juicio por evasión fiscal en España.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Lionel Messi",
+      "description": "Futbolista argentino considerado el mejor de su generación. Ganador de 8 Balones de Oro. Jugó en Barcelona por 20 años, luego PSG y ahora Inter Miami. Finalmente ganó el Mundial Qatar 2022. Baja estatura, zurdo mágico, humilde y tímido.",
+      "category": "CELEBRIDAD",
+      "points": 1
+    },
+    {
+      "name": "Cantinflas",
+      "description": "Mario Moreno, comediante mexicano icónico. Famoso por hablar mucho sin decir nada claro, estilo llamado 'cantinflear'. Usaba pantalones caídos, pañuelo rojo al cuello y bigotito. Personaje del peladito mexicano. Conquistó Hollywood en los 50s-60s.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Frida Kahlo",
+      "description": "Pintora mexicana con monoceja característica y flores en el pelo. Autorretratos con animales y símbolos mexicanos. Esposa de Diego Rivera. Sufrió accidente de tranvía que la dejó con dolor crónico. Icono feminista y de la cultura mexicana.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "El Chavo del 8",
+      "description": "Niño huérfano que vive en un barril. Siempre tiene hambre, especialmente de tortas de jamón. Usa gorra, pantalones cortos y pecas pintadas. Frases: 'Eso, eso, eso!', 'Fue sin querer queriendo'. El personaje más icónico de la TV latinoamericana.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 1
+    },
+    {
+      "name": "La Chancla Voladora",
+      "description": "El arma secreta de las mamás latinas. Sandalia que se lanza con precisión de francotirador a distancias imposibles. Nunca falla. Puede dar vuelta en esquinas. El solo gesto de quitársela causa obediencia inmediata. Más temida que cualquier arma moderna.",
+      "category": "ET CÉTERA",
+      "points": 3
+    },
+    {
+      "name": "Simón Bolívar",
+      "description": "El Libertador. Venezolano que liberó 5 países sudamericanos del dominio español: Venezuela, Colombia, Ecuador, Perú y Bolivia (nombrada en su honor). Héroe de la independencia. Soñaba con una América unida. Murió pobre y traicionado.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "Selena Quintanilla",
+      "description": "Cantante texano-mexicana, 'Reina del Tex-Mex'. Asesinada por la presidenta de su club de fans a los 23 años. Canciones: 'Bidi Bidi Bom Bom', 'Como La Flor', 'Amor Prohibido'. Icono de la cultura mexicano-americana. Jennifer Lopez la interpretó en película.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "El Cucuy",
+      "description": "El monstruo del coco latinoamericano. Ser oscuro que se lleva a los niños que no se duermen o se portan mal. 'Ahí viene el cucuy!'. Vive debajo de la cama o en el armario. Cada país tiene su versión. Herramienta efectiva de disciplina parental.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Gabriel García Márquez",
+      "description": "Escritor colombiano, ganador del Premio Nobel. Autor de 'Cien Años de Soledad' y 'El Amor en los Tiempos del Cólera'. Padre del realismo mágico. Conocido como 'Gabo'. Amigo de Fidel Castro. Macondo, Buendía, mariposas amarillas.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 3
+    },
+    {
+      "name": "Mafalda",
+      "description": "Personaje de tira cómica argentina creada por Quino. Niña de pelo negro con moño que odia la sopa. Preocupada por la paz mundial y los derechos humanos. Reflexiva, crítica e idealista. Sus amigos: Felipe, Manolito, Susanita, Miguelito, Libertad.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Ernesto 'Che' Guevara",
+      "description": "Revolucionario argentino-cubano. Médico que se unió a Fidel Castro en la Revolución Cubana. Famoso por la foto del 'Guerrillero Heroico' con boina y estrella. Su imagen está en camisetas de todo el mundo, irónicamente vendidas por el capitalismo que combatió.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 2
+    },
+    {
+      "name": "La Llorona",
+      "description": "Fantasma de leyenda mexicana que vaga llorando '¡Ay, mis hijos!'. Mujer que ahogó a sus hijos y ahora los busca eternamente. Aparece cerca de ríos y lagos. Madres la usan para asustar niños. Una de las leyendas más aterradoras de Latinoamérica.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Pelé",
+      "description": "Futbolista brasileño, considerado el mejor de todos los tiempos por muchos. Único con 3 Copas del Mundo (1958, 1962, 1970). Más de 1000 goles en su carrera. 'O Rei' (El Rey). Icono mundial del fútbol. Número 10 eterno.",
+      "category": "FIGURA HISTÓRICA",
+      "points": 1
+    },
+    {
+      "name": "Una Telenovela",
+      "description": "Melodrama latinoamericano exportado al mundo. Llena de bofetadas dramáticas, amnesia conveniente, gemelos malvados y cambios de bebés. Villanas con cejas perfectas. Protagonistas que sufren pero siempre triunfan. 'Maldita lisiada!'. México, Brasil, Colombia, Argentina las producen.",
+      "category": "ET CÉTERA",
+      "points": 2
+    },
+    {
+      "name": "Bad Bunny",
+      "description": "Cantante puertorriqueño de trap y reggaetón. Bajito con lentes oscuros. Uno de los artistas más escuchados del mundo en Spotify. Canciones en español que dominan charts globales. Estilo único, voz ronca. 'Yo perreo sola'. Representa nueva ola de música latina.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    },
+    {
+      "name": "Quico",
+      "description": "Niño rico del 'Chavo del 8'. Gordito consentido que llora por todo. Hijo de Doña Florinda. Usa traje de marinero o ropa elegante. Frases: '¡Cállate, cállate, que me desesperas!', 'Tenía que ser el Chavo del 8'. Siempre recibe cachetadas de su mamá.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "El Zorro",
+      "description": "Héroe enmascarado de la California española. Don Diego de la Vega de día, justiciero de noche. Capa negra, antifaz y espada. Deja su marca haciendo una 'Z' con la espada. Defiende a los pobres. 'La espada de la justicia'. Antonio Banderas lo interpretó en cine.",
+      "category": "PERSONAJE DE FICCIÓN",
+      "points": 2
+    },
+    {
+      "name": "Ricky Martin",
+      "description": "Cantante puertorriqueño que conquistó el mundo. Ex integrante de Menudo. 'Livin' la Vida Loca' explotó en los 90s. Movió las caderas en los Grammy. Copa del Mundo 98: 'La Copa de la Vida'. Salió del closet en 2010. Ícono pop latino global.",
+      "category": "CELEBRIDAD",
+      "points": 2
+    }
+  ],
+  "range": {
+    "start": 284,
+    "end": 303,
+    "count": 20
+  }
+}
